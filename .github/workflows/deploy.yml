@@ -1,12 +1,13 @@
-name: Fetch News
+name: Deploy Site
 
 on:
-  schedule:
-    - cron: '0 12 * * *'  # Запускає щодня о 12:00 UTC
+  push:
+    branches:
+      - main  # Запуск після пушу в main
   workflow_dispatch:  # Дозволяє запускати вручну
 
 jobs:
-  fetch_news:
+  deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
@@ -20,15 +21,21 @@ jobs:
       - name: Install dependencies
         run: pip install feedparser
 
-      - name: Run fetch_trends.py
+      - name: Fetch latest news
         run: python fetch_trends.py
 
       - name: Commit and push changes
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --local user.email "github-actions@github.com"
           git config --local user.name "GitHub Actions"
           git add trends.json
-          git commit -m "Auto-update news"
-          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
+          git commit -m "Auto-update news" || echo "No changes to commit"
+          git push
+
+      - name: Deploy to Netlify
+        uses: netlify/actions/cli@master
+        with:
+          args: deploy --prod
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
