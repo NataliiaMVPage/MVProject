@@ -3,9 +3,26 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MVProject</title>
+    <title>News Trends</title>
+    <script>
+        async function loadNews() {
+            const response = await fetch("trends.json");
+            const data = await response.json();
+            const newsList = document.getElementById("news");
+
+            newsList.innerHTML = "";
+            data.news.forEach(news => {
+                const item = document.createElement("li");
+                item.innerHTML = `<a href="${news.link}" target="_blank">${news.title}</a> (${news.source})`;
+                newsList.appendChild(item);
+            });
+        }
+
+        window.onload = loadNews;
+    </script>
 </head>
 <body>
-    <h1>Привіт, це мій MVP сайт!</h1>
+    <h1>Latest News Trends</h1>
+    <ul id="news">Loading...</ul>
 </body>
 </html>
