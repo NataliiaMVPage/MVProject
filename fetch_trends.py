@@ -24,7 +24,7 @@ def fetch_news():
             news_items.append({
                 "title": entry.title,
                 "link": entry.link,
-                "published": entry.published,
+                "published": entry.get("published", "N/A"),  # Уникаємо помилки
                 "source": source
             })
         
