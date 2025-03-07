@@ -1,21 +1,79 @@
 <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>News Trends</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            max-width: 600px;
+            margin: 20px auto;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+        h1 {
+            color: #0056b3;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        li {
+            background: #fff;
+            margin: 10px 0;
+            padding: 10px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        a {
+            text-decoration: none;
+            color: #0056b3;
+            font-weight: bold;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .loader {
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid #3498db;
+            border-radius: 50%;
+            width: 30px;
+            height: 30px;
+            animation: spin 1s linear infinite;
+            margin: 20px auto;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+    </style>
     <script>
         async function loadNews() {
-            const response = await fetch("trends.json");
-            const data = await response.json();
             const newsList = document.getElementById("news");
-
+            const loader = document.createElement("div");
+            loader.className = "loader";
             newsList.innerHTML = "";
-            data.news.forEach(news => {
-                const item = document.createElement("li");
-                item.innerHTML = `<a href="${news.link}" target="_blank">${news.title}</a> (${news.source})`;
-                newsList.appendChild(item);
-            });
+            newsList.appendChild(loader);
+
+            try {
+                const response = await fetch("trends.json");
+                const data = await response.json();
+                newsList.innerHTML = ""; // Clear loader
+
+                data.news.forEach(news => {
+                    const item = document.createElement("li");
+                    item.innerHTML = `<a href="${news.link}" target="_blank">${news.title}</a> <br> <small>(${news.source})</small>`;
+                    newsList.appendChild(item);
+                });
+            } catch (error) {
+                newsList.innerHTML = "<p>Failed to load news. Please try again later.</p>";
+            }
         }
 
         window.onload = loadNews;
@@ -23,6 +81,8 @@
 </head>
 <body>
     <h1>Latest News Trends</h1>
-    <ul id="news">Loading...</ul>
+    <ul id="news" aria-live="polite">
+        <li>Loading...</li>
+    </ul>
 </body>
 </html>
