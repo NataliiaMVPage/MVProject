@@ -1,0 +1,32 @@
+name: Fetch News
+
+on:
+  schedule:
+    - cron: '0 12 * * *'  # Запускає щодня о 12:00 UTC
+  workflow_dispatch:  # Дозволяє запускати вручну
+
+jobs:
+  fetch_news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install feedparser
+
+      - name: Run fetch_trends.py
+        run: python fetch_trends.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add trends.json
+          git commit -m "Auto-update news"
+          git push
