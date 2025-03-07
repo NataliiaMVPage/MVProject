@@ -1,8 +1,8 @@
 import feedparser
 import json
-from datetime import datetime
+from datetime import datetime, timezone  # Додано timezone
 
-# 📰 СПИСОК НОВИННИХ САЙТІВ (ДОДАВАЙ ЩО ХОЧЕШ)
+# 📰 СПИСОК НОВИННИХ САЙТІВ
 RSS_FEEDS = {
     "BBC": "http://feeds.bbci.co.uk/news/world/rss.xml",
     "CNN": "http://rss.cnn.com/rss/edition.rss",
@@ -24,15 +24,15 @@ def fetch_news():
             news_items.append({
                 "title": entry.title,
                 "link": entry.link,
-                "published": entry.get("published", "N/A"),  # Уникаємо помилки
+                "published": entry.get("published", entry.get("updated", "N/A")),  
                 "source": source
             })
         
         all_news.extend(news_items)
 
-    # Додаємо час оновлення
+    # Додаємо час оновлення (ВИПРАВЛЕНО!)
     result = {
-        "updated_at": datetime.utcnow().isoformat(),
+        "updated_at": datetime.now(timezone.utc).isoformat(),  # ✅ Виправлено
         "news": all_news
     }
 
