@@ -1,64 +1,64 @@
 {
-    "updated_at": "2025-04-12T12:20:41.965056+00:00",
+    "updated_at": "2025-04-13T12:21:16.428111+00:00",
     "news": [
         {
-            "title": "Nuclear talks between US and Iran begin in Oman",
+            "title": "At least 32 people killed in Russian ballistic missile attack on Sumy",
+            "link": "https://www.bbc.com/news/articles/c4g4262x4x1o",
+            "published": "Sun, 13 Apr 2025 12:08:22 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "Israeli air strike destroys part of last fully functional hospital in Gaza City",
+            "link": "https://www.bbc.com/news/articles/cjr7l123zy5o",
+            "published": "Sun, 13 Apr 2025 10:08:48 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "Trump exempts smartphones and computers from new tariffs",
+            "link": "https://www.bbc.com/news/articles/c20xn626y81o",
+            "published": "Sun, 13 Apr 2025 02:17:37 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "Peruvian president avoids impeachment over 'Rolexgate' scandal",
+            "link": "https://www.bbc.com/news/articles/cn4jl0xw35xo",
+            "published": "Sun, 13 Apr 2025 11:38:29 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "Three million child deaths linked to drug resistance, study shows",
+            "link": "https://www.bbc.com/news/articles/cy0xk86l9g9o",
+            "published": "Sat, 12 Apr 2025 23:24:22 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "'Death is everywhere': Sudan camp residents shelter from attacks",
+            "link": "https://www.bbc.com/news/articles/cg41r3w0e19o",
+            "published": "Sun, 13 Apr 2025 11:42:30 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "'Russians are even trying to ban our holidays' - life in occupied Ukraine",
+            "link": "https://www.bbc.com/news/articles/c93gy91y43vo",
+            "published": "Sat, 12 Apr 2025 23:02:16 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "Man mistakenly deported to El Salvador 'alive and secure', US says",
+            "link": "https://www.bbc.com/news/articles/c9qwxwrr74jo",
+            "published": "Sun, 13 Apr 2025 00:12:16 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "US and Iran hold 'constructive' first round of nuclear talks",
             "link": "https://www.bbc.com/news/articles/c4g2eggzvjgo",
-            "published": "Sat, 12 Apr 2025 11:54:28 GMT",
+            "published": "Sat, 12 Apr 2025 18:31:12 GMT",
             "source": "BBC"
         },
         {
-            "title": "US special envoy meets Putin as Trump urges Russia to 'get moving' on Ukraine ceasefire",
-            "link": "https://www.bbc.com/news/articles/crm3kxxx8x9o",
-            "published": "Sat, 12 Apr 2025 05:00:54 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "Judge allows Columbia graduate Mahmoud Khalil's deportation",
-            "link": "https://www.bbc.com/news/articles/cwy0ngd11yzo",
-            "published": "Sat, 12 Apr 2025 02:12:12 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "As an Israeli hostage turns 48, his wife waits for blue ticks on her messages",
-            "link": "https://www.bbc.com/news/articles/c4g86jy6jggo",
-            "published": "Fri, 11 Apr 2025 23:16:35 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "Hundreds of flights cancelled in China as strong winds hit capital",
-            "link": "https://www.bbc.com/news/articles/c89gp9g5zyjo",
-            "published": "Sat, 12 Apr 2025 10:12:50 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "Coup leader seeks win in first vote since Gabon army takeover",
-            "link": "https://www.bbc.com/news/articles/cn91j20r8vxo",
-            "published": "Sat, 12 Apr 2025 03:32:35 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "Trump to end protected status for Afghans and Cameroonians",
-            "link": "https://www.bbc.com/news/articles/cgeng08qe7zo",
-            "published": "Sat, 12 Apr 2025 01:23:53 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "Ukraine allies pledge €21bn in fresh military aid",
-            "link": "https://www.bbc.com/news/articles/ckg2q323lg3o",
-            "published": "Fri, 11 Apr 2025 17:22:53 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "Explosion in central Athens after anonymous tip off",
-            "link": "https://www.bbc.com/news/articles/c0r51d2r8peo",
-            "published": "Sat, 12 Apr 2025 04:32:18 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "Menendez brothers' bid for freedom can continue, judge rules",
-            "link": "https://www.bbc.com/news/articles/cp8kmrg1p8go",
-            "published": "Sat, 12 Apr 2025 00:57:12 GMT",
+            "title": "Tanzania's main opposition party banned from election",
+            "link": "https://www.bbc.com/news/articles/c793qd2x7yzo",
+            "published": "Sat, 12 Apr 2025 21:40:40 GMT",
             "source": "BBC"
         },
         {
@@ -122,63 +122,63 @@
             "source": "CNN"
         },
         {
-            "title": "Russia launches aerial assault on Ukraine, injuring 4",
-            "link": "https://www.dw.com/en/russia-launches-aerial-assault-on-ukraine-injuring-4/a-72226472?maca=en-rss-en-top-1022-rdf",
-            "published": "2025-04-12T12:05:00Z",
+            "title": "Ecuador prepares to vote in knife-edge elections",
+            "link": "https://www.dw.com/en/ecuador-prepares-to-vote-in-knife-edge-elections/a-72231689?maca=en-rss-en-top-1022-rdf",
+            "published": "2025-04-13T12:00:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Ukraine: What's up with Europe's largest lithium deposits",
-            "link": "https://www.dw.com/en/ukraine-what-s-up-with-europe-s-largest-lithium-deposits/a-72221692?maca=en-rss-en-top-1022-rdf",
-            "published": "2025-04-12T09:11:00Z",
+            "title": "Ukraine: More than 30 killed in Russian strike on Sumy",
+            "link": "https://www.dw.com/en/ukraine-more-than-30-killed-in-russian-strike-on-sumy/live-72231446?maca=en-rss-en-top-1022-rdf",
+            "published": "2025-04-13T09:51:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "US and Iran set to begin high-stakes nuclear deal talks",
-            "link": "https://www.dw.com/en/us-and-iran-set-to-begin-high-stakes-nuclear-deal-talks/live-72226237?maca=en-rss-en-top-1022-rdf",
-            "published": "2025-04-12T09:10:00Z",
+            "title": "US: Bernie Sanders rally draws record crowd in LA",
+            "link": "https://www.dw.com/en/us-bernie-sanders-rally-draws-record-crowd-in-la/a-72231033?maca=en-rss-en-top-1022-rdf",
+            "published": "2025-04-13T08:55:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Greece: Worry as Turks buy property and 'golden visas'",
-            "link": "https://www.dw.com/en/greece-worry-as-turks-buy-property-and-golden-visas/a-72225296?maca=en-rss-en-top-1022-rdf",
-            "published": "2025-04-12T07:48:00Z",
+            "title": "Is our mindset blocking climate action?",
+            "link": "https://www.dw.com/en/is-our-mindset-blocking-climate-action/a-72179399?maca=en-rss-en-top-1022-rdf",
+            "published": "2025-04-09T09:01:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Gabon's junta chief expected to win election as polls open",
-            "link": "https://www.dw.com/en/gabon-s-junta-chief-expected-to-win-election-as-polls-open/a-72226389?maca=en-rss-en-top-1022-rdf",
-            "published": "2025-04-12T07:30:00Z",
+            "title": "Algeria protests to France over detaining consular official",
+            "link": "https://www.dw.com/en/algeria-protests-to-france-over-detaining-consular-official/a-72230799?maca=en-rss-en-top-1022-rdf",
+            "published": "2025-04-13T07:31:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Toxic haze blankets Kathmandu, world's most polluted capital",
-            "link": "https://www.dw.com/en/toxic-haze-blankets-kathmandu-world-s-most-polluted-capital/a-72173192?maca=en-rss-en-top-1022-rdf",
-            "published": "2025-04-12T06:18:00Z",
+            "title": "Israeli strike hits Gaza City hospital, Hamas says",
+            "link": "https://www.dw.com/en/israeli-strike-hits-gaza-city-hospital-hamas-says/a-72230848?maca=en-rss-en-top-1022-rdf",
+            "published": "2025-04-13T07:01:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Trump replaces Obama portrait with one of himself",
-            "link": "https://www.dw.com/en/trump-replaces-obama-portrait-with-one-of-himself/a-72226224?maca=en-rss-en-top-1022-rdf",
-            "published": "2025-04-12T05:50:00Z",
+            "title": "Fact check: Will Bulgarians lose their savings once they join the euro?",
+            "link": "https://www.dw.com/en/fact-check-will-bulgarians-lose-their-savings-once-they-join-the-euro/a-72199640?maca=en-rss-en-top-1022-rdf",
+            "published": "2025-04-13T05:26:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "US judge rules Mahmoud Khalil can be deported",
-            "link": "https://www.dw.com/en/us-judge-rules-mahmoud-khalil-can-be-deported/a-72226013?maca=en-rss-en-top-1022-rdf",
-            "published": "2025-04-12T05:33:00Z",
+            "title": "Housing crisis: Germany plans 'turbo' construction boost",
+            "link": "https://www.dw.com/en/housing-crisis-germany-plans-turbo-construction-boost/a-72212980?maca=en-rss-en-top-1022-rdf",
+            "published": "2025-04-13T05:11:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Germany plans voluntary military service",
-            "link": "https://www.dw.com/en/germany-plans-voluntary-military-service/a-72213817?maca=en-rss-en-top-1022-rdf",
-            "published": "2025-04-12T05:07:00Z",
+            "title": "Brazil's Bolsonaro flown to capital after abdominal pain",
+            "link": "https://www.dw.com/en/brazil-s-bolsonaro-flown-to-capital-after-abdominal-pain/a-72230742?maca=en-rss-en-top-1022-rdf",
+            "published": "2025-04-13T03:46:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "IMF, World Bank approve new bailouts for Argentina",
-            "link": "https://www.dw.com/en/imf-world-bank-approve-new-bailouts-for-argentina/a-72225989?maca=en-rss-en-top-1022-rdf",
-            "published": "2025-04-12T03:35:00Z",
+            "title": "Serbia's president calls for order after student protests",
+            "link": "https://www.dw.com/en/serbia-s-president-calls-for-order-after-student-protests/a-72230534?maca=en-rss-en-top-1022-rdf",
+            "published": "2025-04-13T02:42:00Z",
             "source": "DW (Germany)"
         }
     ]
