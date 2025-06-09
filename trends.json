@@ -1,28 +1,46 @@
 {
-    "updated_at": "2025-06-08T12:22:36.003913+00:00",
+    "updated_at": "2025-06-09T12:26:08.402388+00:00",
     "news": [
         {
-            "title": "Trump orders National Guard to LA after clashes",
-            "link": "https://www.bbc.com/news/articles/c4gkyggekgyo",
-            "published": "Sun, 08 Jun 2025 11:44:31 GMT",
+            "title": "How LA erupted over rumours of immigration raid at a hardware store",
+            "link": "https://www.bbc.com/news/articles/c1kv1lgdpkjo",
+            "published": "Mon, 09 Jun 2025 01:58:15 GMT",
             "source": "BBC"
         },
         {
-            "title": "Bowen: Israel is accused of the gravest war crimes - how governments respond could haunt them for years",
-            "link": "https://www.bbc.com/news/articles/c0r1xl5wgnko",
-            "published": "Sun, 08 Jun 2025 04:31:59 GMT",
+            "title": "South Korea cements cultural status with six Tonys for Maybe Happy Ending",
+            "link": "https://www.bbc.com/news/articles/cy0j71xgrv8o",
+            "published": "Mon, 09 Jun 2025 05:56:09 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "Israel says Hamas Gaza chief Sinwar's body identified",
+            "link": "https://www.bbc.com/news/articles/c62veqrq3yzo",
+            "published": "Sun, 08 Jun 2025 20:05:41 GMT",
             "source": "BBC"
         },
         {
             "title": "Colombia presidential hopeful shot in head at rally",
             "link": "https://www.bbc.com/news/articles/c9dq8yxxy8zo",
-            "published": "Sun, 08 Jun 2025 09:33:30 GMT",
+            "published": "Sun, 08 Jun 2025 14:59:00 GMT",
             "source": "BBC"
         },
         {
-            "title": "Italian citizenship referendum polarises country",
-            "link": "https://www.bbc.com/news/articles/c780yk3z2lyo",
-            "published": "Sun, 08 Jun 2025 06:10:50 GMT",
+            "title": "Iran expands dog-walking ban",
+            "link": "https://www.bbc.com/news/articles/cn0gngq4wjqo",
+            "published": "Sun, 08 Jun 2025 15:53:06 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "'Have my house' - Usyk invites Trump to witness Ukraine war",
+            "link": "https://www.bbc.com/sport/boxing/articles/c4gej271x22o",
+            "published": "Sun, 08 Jun 2025 12:35:15 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "Watch: National Guard on LA streets as unrest erupts",
+            "link": "https://www.bbc.com/news/videos/cwynm87e1d3o",
+            "published": "Mon, 09 Jun 2025 01:08:57 GMT",
             "source": "BBC"
         },
         {
@@ -32,33 +50,15 @@
             "source": "BBC"
         },
         {
+            "title": "Kenya police suspended over death of man in custody for online post",
+            "link": "https://www.bbc.com/news/articles/cwy3eqpqqnzo",
+            "published": "Mon, 09 Jun 2025 09:54:23 GMT",
+            "source": "BBC"
+        },
+        {
             "title": "Rwanda pulls out of regional bloc over DR Congo row",
             "link": "https://www.bbc.com/news/articles/cx2qke0xkrdo",
             "published": "Sun, 08 Jun 2025 10:00:42 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "Chappell Roan's Apple dance, and other Primavera moments",
-            "link": "https://www.bbc.com/news/articles/cn4qn8l0pd3o",
-            "published": "Sun, 08 Jun 2025 10:41:45 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "British soldier arrested in Kenya over rape allegation",
-            "link": "https://www.bbc.com/news/articles/cx27vqvkn9vo",
-            "published": "Sun, 08 Jun 2025 09:03:43 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "US brings back El Salvador deportee to face charges",
-            "link": "https://www.bbc.com/news/articles/c7v7ynv98r8o",
-            "published": "Sat, 07 Jun 2025 16:14:07 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "Six killed by Israeli gunfire near Gaza aid site, Hamas officials say",
-            "link": "https://www.bbc.com/news/articles/cy5evz4xdklo",
-            "published": "Sat, 07 Jun 2025 20:47:02 GMT",
             "source": "BBC"
         },
         {
@@ -122,63 +122,63 @@
             "source": "CNN"
         },
         {
-            "title": "Italians vote on citizenship rules, labor laws",
-            "link": "https://www.dw.com/en/italians-vote-on-citizenship-rules-labor-laws/a-72835388?maca=en-rss-en-top-1022-rdf",
-            "published": "2025-06-08T11:42:00Z",
+            "title": "High-seas rescue: Crew abandon flaming cargo ship off India",
+            "link": "https://www.dw.com/en/high-seas-rescue-crew-abandon-flaming-cargo-ship-off-india/a-72842715?maca=en-rss-en-top-1022-rdf",
+            "published": "2025-06-09T10:15:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Trump deploys National Guard troops to quell LA protests",
-            "link": "https://www.dw.com/en/trump-deploys-national-guard-troops-to-quell-la-protests/live-72832870?maca=en-rss-en-top-1022-rdf",
-            "published": "2025-06-08T10:35:00Z",
+            "title": "Ukraine: Russia launches large overnight drone strike",
+            "link": "https://www.dw.com/en/ukraine-russia-launches-large-overnight-drone-strike/live-72840620?maca=en-rss-en-top-1022-rdf",
+            "published": "2025-06-09T09:11:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Ukraine updates: Russia claims entry into Dnipropetrovsk",
-            "link": "https://www.dw.com/en/ukraine-updates-russia-claims-entry-into-dnipropetrovsk/live-72835096?maca=en-rss-en-top-1022-rdf",
-            "published": "2025-06-08T10:33:00Z",
+            "title": "What is the US National Guard and how is it deployed?",
+            "link": "https://www.dw.com/en/what-is-the-us-national-guard-and-how-is-it-deployed/a-72836481?maca=en-rss-en-top-1022-rdf",
+            "published": "2025-06-09T08:00:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Roman emperor Marcus Aurelius enjoys social media revival",
-            "link": "https://www.dw.com/en/roman-emperor-marcus-aurelius-enjoys-social-media-revival/a-72737567?maca=en-rss-en-top-1022-rdf",
-            "published": "2025-06-08T08:53:00Z",
+            "title": "What does Donald Trump's new travel ban mean?",
+            "link": "https://www.dw.com/en/what-does-donald-trump-s-new-travel-ban-mean/a-72809077?maca=en-rss-en-top-1022-rdf",
+            "published": "2025-06-09T07:49:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Rwanda quits Central African bloc in dispute with DR Congo",
-            "link": "https://www.dw.com/en/rwanda-quits-central-african-bloc-in-dispute-with-dr-congo/a-72834337?maca=en-rss-en-top-1022-rdf",
-            "published": "2025-06-08T08:22:00Z",
+            "title": "LA protests: Arrests made as clashes continue into 3rd night",
+            "link": "https://www.dw.com/en/la-protests-arrests-made-as-clashes-continue-into-3rd-night/live-72839578?maca=en-rss-en-top-1022-rdf",
+            "published": "2025-06-09T06:53:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "The moon: Why we want to go back",
-            "link": "https://www.dw.com/en/the-moon-why-we-want-to-go-back/a-72758731?maca=en-rss-en-top-1022-rdf",
-            "published": "2025-06-08T07:39:00Z",
+            "title": "US trade tensions hit China's export growth",
+            "link": "https://www.dw.com/en/us-trade-tensions-hit-china-s-export-growth/a-72839612?maca=en-rss-en-top-1022-rdf",
+            "published": "2025-06-09T05:40:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Miguel Uribe: Colombian presidential hopeful shot in Bogota",
-            "link": "https://www.dw.com/en/miguel-uribe-colombian-presidential-hopeful-shot-in-bogota/a-72833290?maca=en-rss-en-top-1022-rdf",
-            "published": "2025-06-08T05:48:00Z",
+            "title": "Fan dies after fall during Nations League final in Munich",
+            "link": "https://www.dw.com/en/fan-dies-after-fall-during-nations-league-final-in-munich/a-72839174?maca=en-rss-en-top-1022-rdf",
+            "published": "2025-06-09T00:57:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Israeli strikes kill dozens in Gaza, amid Eid al-Adha",
-            "link": "https://www.dw.com/en/israeli-strikes-kill-dozens-in-gaza-amid-eid-al-adha/live-72829571?maca=en-rss-en-top-1022-rdf",
-            "published": "2025-06-07T20:07:00Z",
+            "title": "Israel stops aid ship attempting to reach Gaza",
+            "link": "https://www.dw.com/en/israel-stops-aid-ship-attempting-to-reach-gaza/live-72838899?maca=en-rss-en-top-1022-rdf",
+            "published": "2025-06-09T00:29:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Tanzania's crackdown on activists tests East African relations",
-            "link": "https://www.dw.com/en/tanzania-s-crackdown-on-activists-tests-east-african-relations/a-72832572?maca=en-rss-en-top-1022-rdf",
-            "published": "2025-06-07T19:45:00Z",
+            "title": "El Salvador: Bukele critic arrested for money laundering",
+            "link": "https://www.dw.com/en/el-salvador-bukele-critic-arrested-for-money-laundering/a-72837093?maca=en-rss-en-top-1022-rdf",
+            "published": "2025-06-08T17:56:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Stymied French politicians turn to the sins of the past",
-            "link": "https://www.dw.com/en/stymied-french-politicians-turn-to-the-sins-of-the-past/a-72832134?maca=en-rss-en-top-1022-rdf",
-            "published": "2025-06-07T17:01:00Z",
+            "title": "Ter Stegen a bright spot in Germany Nations League loss",
+            "link": "https://www.dw.com/en/ter-stegen-a-bright-spot-in-germany-nations-league-loss/a-72836730?maca=en-rss-en-top-1022-rdf",
+            "published": "2025-06-08T16:55:00Z",
             "source": "DW (Germany)"
         }
     ]
