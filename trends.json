@@ -1,64 +1,64 @@
 {
-    "updated_at": "2025-11-09T12:23:02.151946+00:00",
+    "updated_at": "2025-11-10T12:26:56.895392+00:00",
     "news": [
         {
-            "title": "Nearly a million evacuated as Philippines braces for 'super typhoon'",
+            "title": "US Senate passes deal aimed at ending longest ever government shutdown",
+            "link": "https://www.bbc.com/news/articles/cpd2p2eddnzo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 10 Nov 2025 12:07:12 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "Philippines hit by 'intense' typhoon as nearly a million evacuate",
             "link": "https://www.bbc.com/news/articles/cq509yj82y8o?at_medium=RSS&at_campaign=rss",
-            "published": "Sun, 09 Nov 2025 11:22:39 GMT",
+            "published": "Sun, 09 Nov 2025 20:44:39 GMT",
             "source": "BBC"
         },
         {
-            "title": "BBC on Luzon Island as super typhoon nears Philippines",
+            "title": "A jailed hacking kingpin reveals all about the gang that left a trail of destruction",
+            "link": "https://www.bbc.com/news/articles/cm2w0pvg4wko?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 10 Nov 2025 06:01:04 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "BBC on Luzon Island as super typhoon hits Philippines",
             "link": "https://www.bbc.com/news/videos/c20p2m83p5go?at_medium=RSS&at_campaign=rss",
-            "published": "Sun, 09 Nov 2025 07:53:37 GMT",
+            "published": "Sun, 09 Nov 2025 14:46:42 GMT",
             "source": "BBC"
         },
         {
-            "title": "UK military to help protect Belgium after drone incursions",
+            "title": "Iran faces unprecedented drought as water crisis hits Tehran",
+            "link": "https://www.bbc.com/news/articles/cy4p2yzmem0o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 10 Nov 2025 08:23:49 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "Israel receives body of soldier killed in 2014 in Gaza",
+            "link": "https://www.bbc.com/news/articles/c2kp3yjy8q7o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 09 Nov 2025 19:41:15 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "Three dead and 15 injured in Tenerife tidal surge",
+            "link": "https://www.bbc.com/news/articles/cpd2pzxe59go?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 09 Nov 2025 17:40:04 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "UK to help protect Belgium after suspected Russian drone incursions",
             "link": "https://www.bbc.com/news/articles/c3dn2ep584ko?at_medium=RSS&at_campaign=rss",
-            "published": "Sun, 09 Nov 2025 11:45:40 GMT",
+            "published": "Sun, 09 Nov 2025 13:33:13 GMT",
             "source": "BBC"
         },
         {
-            "title": "More than 1,400 flights cancelled as US air traffic cuts enter second day",
-            "link": "https://www.bbc.com/news/articles/cj410k00yw8o?at_medium=RSS&at_campaign=rss",
-            "published": "Sun, 09 Nov 2025 07:55:29 GMT",
+            "title": "Mystery 'fedora man' at Louvre heist scene revealed as teenage detective fan",
+            "link": "https://www.bbc.com/news/articles/c5ylx0g6w76o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 09 Nov 2025 22:09:39 GMT",
             "source": "BBC"
         },
         {
-            "title": "Syria's Sharaa arrives in US for Trump talks after sanctions lifted",
-            "link": "https://www.bbc.com/news/articles/c0rpxkwdkrpo?at_medium=RSS&at_campaign=rss",
-            "published": "Sun, 09 Nov 2025 04:37:20 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "US cleaning woman shot dead after arriving at wrong home",
-            "link": "https://www.bbc.com/news/articles/ce3k5qv21g1o?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 08 Nov 2025 22:00:13 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "Uganda president admits Kenyan activists were arrested and held in 'the fridge'",
-            "link": "https://www.bbc.com/news/articles/cn8v9vkkjm0o?at_medium=RSS&at_campaign=rss",
-            "published": "Sun, 09 Nov 2025 11:55:49 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "The ex-president's daughter who faces terror-related charges",
-            "link": "https://www.bbc.com/news/articles/cvgdj00gdjro?at_medium=RSS&at_campaign=rss",
-            "published": "Sun, 09 Nov 2025 00:10:29 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "US authorities ground cargo plane model after Kentucky air disaster",
-            "link": "https://www.bbc.com/news/articles/cx2pr5y7p90o?at_medium=RSS&at_campaign=rss",
-            "published": "Sun, 09 Nov 2025 03:12:21 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "Six dead as Russia hits energy and residential sites in Ukraine",
-            "link": "https://www.bbc.com/news/articles/ce3xdg7xrv9o?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 08 Nov 2025 16:22:33 GMT",
+            "title": "Protesters storm Nigeria's new art museum",
+            "link": "https://www.bbc.com/news/articles/c3642764y7xo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 09 Nov 2025 19:15:47 GMT",
             "source": "BBC"
         },
         {
@@ -122,63 +122,63 @@
             "source": "CNN"
         },
         {
-            "title": "Ukraine hits Russian energy leaving thousands without power",
-            "link": "https://www.dw.com/en/ukraine-hits-russian-energy-leaving-thousands-without-power/live-74678195?maca=en-rss-en-top-1022-rdf",
-            "published": "2025-11-09T11:39:00Z",
+            "title": "Germany news: Christmas market attack suspect trial starts",
+            "link": "https://www.dw.com/en/germany-news-christmas-market-attack-suspect-trial-starts/live-74682421?maca=en-rss-en-top-1022-rdf",
+            "published": "2025-11-10T11:55:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Hundreds missing as boat sinks near Malaysia-Thailand border",
-            "link": "https://www.dw.com/en/hundreds-missing-as-boat-sinks-near-malaysia-thailand-border/a-74676861?maca=en-rss-en-top-1022-rdf",
-            "published": "2025-11-09T08:24:00Z",
+            "title": "How Ken Saro-Wiwa's fight against oil pollution in Nigeria lives on",
+            "link": "https://www.dw.com/en/how-ken-saro-wiwa-s-fight-against-oil-pollution-in-nigeria-lives-on/a-74633779?maca=en-rss-en-top-1022-rdf",
+            "published": "2025-11-10T10:52:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Germany considers the 'Nordic model' to curb sex work",
-            "link": "https://www.dw.com/en/germany-considers-the-nordic-model-to-curb-sex-work/a-74673114?maca=en-rss-en-top-1022-rdf",
-            "published": "2025-11-09T08:01:00Z",
+            "title": "Philippines: Deadly typhoon Fung-wong unleashes flooding",
+            "link": "https://www.dw.com/en/philippines-deadly-typhoon-fung-wong-unleashes-flooding/a-74682627?maca=en-rss-en-top-1022-rdf",
+            "published": "2025-11-10T10:28:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "France's 'yellow vest' activists find a new voice on stage",
-            "link": "https://www.dw.com/en/france-s-yellow-vest-activists-find-a-new-voice-on-stage/a-74573451?maca=en-rss-en-top-1022-rdf",
-            "published": "2025-11-09T07:54:00Z",
+            "title": "Thailand suspends Cambodia peace deal after landmine blast",
+            "link": "https://www.dw.com/en/thailand-suspends-cambodia-peace-deal-after-landmine-blast/a-74683180?maca=en-rss-en-top-1022-rdf",
+            "published": "2025-11-10T09:45:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Philippines: Over a million evacuate as super typhoon nears",
-            "link": "https://www.dw.com/en/philippines-over-a-million-evacuate-as-super-typhoon-nears/a-74676370?maca=en-rss-en-top-1022-rdf",
-            "published": "2025-11-09T07:29:00Z",
+            "title": "COP30: 'Climate conference of truth' in Brazil?",
+            "link": "https://www.dw.com/en/cop30-climate-conference-of-truth-in-brazil/a-74573589?maca=en-rss-en-top-1022-rdf",
+            "published": "2025-11-10T07:42:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Defense brings Turkey and Germany closer",
-            "link": "https://www.dw.com/en/defense-brings-turkey-and-germany-closer/a-74626914?maca=en-rss-en-top-1022-rdf",
-            "published": "2025-11-09T06:45:00Z",
+            "title": "Will the AI bubble burst as investors grow wary of returns?",
+            "link": "https://www.dw.com/en/will-the-ai-bubble-burst-as-investors-grow-wary-of-returns/a-74636881?maca=en-rss-en-top-1022-rdf",
+            "published": "2025-11-10T05:19:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Rockefeller Center Christmas tree arrives in New York City",
-            "link": "https://www.dw.com/en/rockefeller-center-christmas-tree-arrives-in-new-york-city/a-74676499?maca=en-rss-en-top-1022-rdf",
-            "published": "2025-11-09T06:44:00Z",
+            "title": "Dozens of inmates dead after violent Ecuador prison riot",
+            "link": "https://www.dw.com/en/dozens-of-inmates-dead-after-violent-ecuador-prison-riot/a-74681537?maca=en-rss-en-top-1022-rdf",
+            "published": "2025-11-10T04:57:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "November 9: A fateful day in the history of Germany",
-            "link": "https://www.dw.com/en/november-9-a-fateful-day-in-the-history-of-germany/a-74659144?maca=en-rss-en-top-1022-rdf",
-            "published": "2025-11-09T06:16:00Z",
+            "title": "US Senate takes big step toward ending shutdown",
+            "link": "https://www.dw.com/en/us-senate-takes-big-step-toward-ending-shutdown/a-74681536?maca=en-rss-en-top-1022-rdf",
+            "published": "2025-11-10T04:35:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Why North Korea's women's football team is so good",
-            "link": "https://www.dw.com/en/why-north-korea-s-women-s-football-team-is-so-good/a-70313505?maca=en-rss-en-top-1022-rdf",
-            "published": "2025-11-09T06:15:00Z",
+            "title": "Nigeria delays opening of new art museum after protests",
+            "link": "https://www.dw.com/en/nigeria-delays-opening-of-new-art-museum-after-protests/a-74681463?maca=en-rss-en-top-1022-rdf",
+            "published": "2025-11-10T03:38:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Syrian president in US ahead of landmark meeting with Trump",
-            "link": "https://www.dw.com/en/syrian-president-in-us-ahead-of-landmark-meeting-with-trump/a-74676037?maca=en-rss-en-top-1022-rdf",
-            "published": "2025-11-09T03:02:00Z",
+            "title": "South Korea's ex-president Yoon indicted on new charges",
+            "link": "https://www.dw.com/en/south-korea-s-ex-president-yoon-indicted-on-new-charges/a-74681478?maca=en-rss-en-top-1022-rdf",
+            "published": "2025-11-10T03:19:00Z",
             "source": "DW (Germany)"
         }
     ]
