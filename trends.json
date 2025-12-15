@@ -1,22 +1,40 @@
 {
-    "updated_at": "2025-12-14T12:25:14.160516+00:00",
+    "updated_at": "2025-12-15T12:31:08.157980+00:00",
     "news": [
         {
-            "title": "Eyewitness captures moment man tackles and disarms Bondi shooter",
-            "link": "https://www.bbc.com/news/videos/c62l00q1v88o?at_medium=RSS&at_campaign=rss",
-            "published": "Sun, 14 Dec 2025 11:24:21 GMT",
+            "title": "A 10-year-old, two rabbis and a Holocaust survivor - Who are the Bondi shooting victims?",
+            "link": "https://www.bbc.com/news/articles/ckgz15d5718o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 15 Dec 2025 10:53:25 GMT",
             "source": "BBC"
         },
         {
-            "title": "'Person of interest' detained over Brown University shooting, police say",
+            "title": "Hollywood director Rob Reiner and wife Michele found dead in LA home",
+            "link": "https://www.bbc.com/news/articles/cz0np02znezo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 15 Dec 2025 11:23:44 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "Pro-democracy Hong Kong tycoon Jimmy Lai convicted in high-profile national security trial",
+            "link": "https://www.bbc.com/news/articles/cp844kjj37vo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 15 Dec 2025 12:02:50 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "Chile elects far-right José Antonio Kast as next president",
+            "link": "https://www.bbc.com/news/articles/c0kde07lvvro?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 15 Dec 2025 00:15:01 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "'Person of interest' detained over Brown University shooting to be released, officials say",
             "link": "https://www.bbc.com/news/articles/ckg9ll6jpl0o?at_medium=RSS&at_campaign=rss",
-            "published": "Sun, 14 Dec 2025 12:18:03 GMT",
+            "published": "Mon, 15 Dec 2025 05:33:08 GMT",
             "source": "BBC"
         },
         {
             "title": "'Never give up': Belarusian prisoners celebrate release after US lifts sanctions",
             "link": "https://www.bbc.com/news/articles/cvg1r89m6g7o?at_medium=RSS&at_campaign=rss",
-            "published": "Sun, 14 Dec 2025 08:04:53 GMT",
+            "published": "Sun, 14 Dec 2025 18:18:37 GMT",
             "source": "BBC"
         },
         {
@@ -40,25 +58,7 @@
         {
             "title": "Three Americans killed by IS gunman in Syria, US military says",
             "link": "https://www.bbc.com/news/articles/c9d9vpxjp2go?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 13 Dec 2025 21:42:05 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "Angry fans throw chairs and bottles at Messi event in India",
-            "link": "https://www.bbc.com/news/articles/c4g66nll48do?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 13 Dec 2025 20:29:18 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "One million households without power in Ukraine after Russia attacks energy grid",
-            "link": "https://www.bbc.com/news/articles/c0l9954yr9ko?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 13 Dec 2025 12:43:16 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "Cambodia shuts border crossings with Thailand as fighting continues",
-            "link": "https://www.bbc.com/news/articles/cd0kkyx3vvxo?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 13 Dec 2025 12:48:55 GMT",
+            "published": "Sun, 14 Dec 2025 21:49:43 GMT",
             "source": "BBC"
         },
         {
@@ -122,63 +122,63 @@
             "source": "CNN"
         },
         {
-            "title": "US: At least 2 killed in shooting at Brown University",
-            "link": "https://www.dw.com/en/us-at-least-2-killed-in-shooting-at-brown-university/live-75148567?maca=en-rss-en-top-1022-rdf",
-            "published": "2025-12-14T11:34:00Z",
+            "title": "Germany news: Automakers see worst profits since 2009",
+            "link": "https://www.dw.com/en/germany-news-automakers-see-worst-profits-since-2009/live-75158691?maca=en-rss-en-top-1022-rdf",
+            "published": "2025-12-15T11:55:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Australia: 11 killed in shooting at Sydney's Bondi Beach",
-            "link": "https://www.dw.com/en/australia-11-killed-in-shooting-at-sydney-s-bondi-beach/live-75150353?maca=en-rss-en-top-1022-rdf",
-            "published": "2025-12-14T10:06:00Z",
+            "title": "How Africa can halt the 'new wave' of coups",
+            "link": "https://www.dw.com/en/how-africa-can-halt-the-new-wave-of-coups/a-75151898?maca=en-rss-en-top-1022-rdf",
+            "published": "2025-12-15T11:42:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Hungary: Thousands march demanding Orban's ouster",
-            "link": "https://www.dw.com/en/hungary-thousands-march-demanding-orban-s-ouster/a-75149845?maca=en-rss-en-top-1022-rdf",
-            "published": "2025-12-14T09:43:00Z",
+            "title": "India: Toxic smog chokes Delhi, disrupts travel",
+            "link": "https://www.dw.com/en/india-toxic-smog-chokes-delhi-disrupts-travel/a-75157431?maca=en-rss-en-top-1022-rdf",
+            "published": "2025-12-15T10:37:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Australia: Police detain 2 after gunshots at Bondi Beach",
-            "link": "https://www.dw.com/en/australia-police-detain-2-after-gunshots-at-bondi-beach/a-75150014?maca=en-rss-en-top-1022-rdf",
-            "published": "2025-12-14T09:07:00Z",
+            "title": "Bondi Beach shooting: Australia agrees to tougher gun laws",
+            "link": "https://www.dw.com/en/bondi-beach-shooting-australia-agrees-to-tougher-gun-laws/a-75157432?maca=en-rss-en-top-1022-rdf",
+            "published": "2025-12-15T10:10:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Ukraine: Zelenskyy to meet US, European officials in Berlin",
-            "link": "https://www.dw.com/en/ukraine-zelenskyy-to-meet-us-european-officials-in-berlin/live-75149706?maca=en-rss-en-top-1022-rdf",
-            "published": "2025-12-14T08:26:00Z",
+            "title": "Ukraine updates: EU allies continue peace talks in Berlin",
+            "link": "https://www.dw.com/en/ukraine-updates-eu-allies-continue-peace-talks-in-berlin/live-75156499?maca=en-rss-en-top-1022-rdf",
+            "published": "2025-12-15T08:57:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Sudan: Drone attack kills 6 UN peacekeepers from Bangladesh",
-            "link": "https://www.dw.com/en/sudan-drone-attack-kills-6-un-peacekeepers-from-bangladesh/a-75149035?maca=en-rss-en-top-1022-rdf",
-            "published": "2025-12-14T03:35:00Z",
+            "title": "Jane Austen at 250: From Regency roots to TikTok reels",
+            "link": "https://www.dw.com/en/jane-austen-at-250-from-regency-roots-to-tiktok-reels/a-75009699?maca=en-rss-en-top-1022-rdf",
+            "published": "2025-12-15T08:37:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "UK police won't investigate Andrew bodyguard claim",
-            "link": "https://www.dw.com/en/uk-police-won-t-investigate-andrew-bodyguard-claim/a-75147968?maca=en-rss-en-top-1022-rdf",
-            "published": "2025-12-13T22:25:00Z",
+            "title": "US: Director Rob Reiner, wife found dead in LA mansion",
+            "link": "https://www.dw.com/en/us-director-rob-reiner-wife-found-dead-in-la-mansion/a-75155567?maca=en-rss-en-top-1022-rdf",
+            "published": "2025-12-15T05:11:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Brown University shooting: Police say 'multiple' people shot",
-            "link": "https://www.dw.com/en/brown-university-shooting-police-say-multiple-people-shot/a-75148185?maca=en-rss-en-top-1022-rdf",
-            "published": "2025-12-13T22:15:00Z",
+            "title": "Morocco flash floods leave 37 dead",
+            "link": "https://www.dw.com/en/morocco-flash-floods-leave-37-dead/a-75155314?maca=en-rss-en-top-1022-rdf",
+            "published": "2025-12-15T03:42:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Germany: 5 arrested for suspected Christmas market plot",
-            "link": "https://www.dw.com/en/germany-5-arrested-for-suspected-christmas-market-plot/a-75148071?maca=en-rss-en-top-1022-rdf",
-            "published": "2025-12-13T21:35:00Z",
+            "title": "Hong Kong court finds pro-democracy tycoon Jimmy Lai guilty",
+            "link": "https://www.dw.com/en/hong-kong-court-finds-pro-democracy-tycoon-jimmy-lai-guilty/a-75155293?maca=en-rss-en-top-1022-rdf",
+            "published": "2025-12-15T03:05:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Senior Hamas leader killed in Gaza strike, Israel says",
-            "link": "https://www.dw.com/en/senior-hamas-leader-killed-in-gaza-strike-israel-says/a-75147822?maca=en-rss-en-top-1022-rdf",
-            "published": "2025-12-13T20:35:00Z",
+            "title": "Chile election: Far-right Kast wins presidential runoff",
+            "link": "https://www.dw.com/en/chile-election-far-right-kast-wins-presidential-runoff/a-75152920?maca=en-rss-en-top-1022-rdf",
+            "published": "2025-12-14T17:51:00Z",
             "source": "DW (Germany)"
         }
     ]
