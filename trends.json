@@ -1,10 +1,52 @@
 {
-    "updated_at": "2026-01-24T12:27:07.528542+00:00",
+    "updated_at": "2026-01-25T12:28:10.762541+00:00",
     "news": [
         {
-            "title": "Ukraine condemns 'brutal' Russian strikes ahead of second day of peace talks",
+            "title": "What we know about fatal shooting of Alex Pretti by federal agents in Minneapolis",
+            "link": "https://www.bbc.com/news/articles/c20zjyxep99o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 25 Jan 2026 04:19:46 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "Trump says UK soldiers in Afghanistan 'among greatest of all warriors'",
+            "link": "https://www.bbc.com/news/articles/c3edwx37pd9o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 24 Jan 2026 20:48:34 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "Climber Alex Honnold scales 101-floor skyscraper without safety gear",
+            "link": "https://www.bbc.com/news/articles/c4gl0njzxjdo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 25 Jan 2026 09:46:03 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "Sir Mark Tully, the BBC's 'voice of India', dies aged 90",
+            "link": "https://www.bbc.com/news/articles/c4nnp4d064do?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 25 Jan 2026 12:12:08 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "Germany arrests suspected Hamas member over alleged attack plot",
+            "link": "https://www.bbc.com/news/articles/c8rm14lkkvzo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 24 Jan 2026 18:57:09 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "Trump threatens Canada with 100% tariffs if it 'makes a deal with China'",
+            "link": "https://www.bbc.com/news/articles/cy4qww3w72lo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 24 Jan 2026 22:10:33 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "Peace talks on Russia-Ukraine war end as fighting rages",
             "link": "https://www.bbc.com/news/articles/cwyr6p30054o?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 24 Jan 2026 08:48:40 GMT",
+            "published": "Sat, 24 Jan 2026 23:37:38 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "China places highest-ranking general under investigation",
+            "link": "https://www.bbc.com/news/articles/c701kr5zqdqo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 24 Jan 2026 14:14:44 GMT",
             "source": "BBC"
         },
         {
@@ -14,51 +56,9 @@
             "source": "BBC"
         },
         {
-            "title": "Harry says sacrifices by Nato troops in Afghanistan deserve 'respect'",
-            "link": "https://www.bbc.com/news/articles/clym2l7d75eo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 23 Jan 2026 21:50:47 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "Frank Gardner: Not only Americans risked life and limb to serve in Afghanistan",
-            "link": "https://www.bbc.com/news/articles/cj3v2mlvzdvo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 23 Jan 2026 19:02:50 GMT",
-            "source": "BBC"
-        },
-        {
             "title": "Boy, 12, dies from injuries after Sydney shark attack",
             "link": "https://www.bbc.com/news/articles/c2k98ql703no?at_medium=RSS&at_campaign=rss",
             "published": "Sat, 24 Jan 2026 05:10:24 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "Hundreds of Minnesota businesses close to protest ICE presence",
-            "link": "https://www.bbc.com/news/articles/c1dk67g4q91o?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 24 Jan 2026 03:55:30 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "US braces for 'extremely dangerous' winter storm",
-            "link": "https://www.bbc.com/news/articles/c0r44l05q52o?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 24 Jan 2026 03:33:47 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "New Zealand calls off rescue efforts for six missing after landslide",
-            "link": "https://www.bbc.com/news/articles/c050vnl7p10o?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 24 Jan 2026 06:34:24 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "Indonesia landslide kills 7, dozens more missing",
-            "link": "https://www.bbc.com/news/articles/c87r53y4dx0o?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 24 Jan 2026 06:02:41 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "TikTok US venture to collect precise user location data",
-            "link": "https://www.bbc.com/news/articles/cvgnj7v2rr5o?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 24 Jan 2026 03:06:29 GMT",
             "source": "BBC"
         },
         {
@@ -122,63 +122,63 @@
             "source": "CNN"
         },
         {
-            "title": "How Israeli settler violence empties Palestinian villages",
-            "link": "https://www.dw.com/en/how-israeli-settler-violence-empties-palestinian-villages/a-75595251?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-01-24T12:09:00Z",
+            "title": "Alex Honnold: US man free climbs Taiwan's 101-story tower",
+            "link": "https://www.dw.com/en/alex-honnold-us-man-free-climbs-taiwan-s-101-story-tower/a-75647548?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-01-25T10:49:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "EXCLUSIVE: US wants extra Winter Olympics spot for skeleton star Katie Uhlaender",
-            "link": "https://www.dw.com/en/exclusive-us-wants-extra-winter-olympics-spot-for-skeleton-star-katie-uhlaender/a-75639366?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-01-24T11:49:00Z",
+            "title": "EU, India set for historic trade deal amid US tariffs",
+            "link": "https://www.dw.com/en/eu-india-set-for-historic-trade-deal-amid-us-tariffs/a-75638454?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-01-25T10:27:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "US defense plan focuses on homeland, limits help to allies",
-            "link": "https://www.dw.com/en/us-defense-plan-focuses-on-homeland-limits-help-to-allies/a-75638387?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-01-24T11:10:00Z",
+            "title": "Germany news: Majority see Trump as threat to nation",
+            "link": "https://www.dw.com/en/germany-news-majority-see-trump-as-threat-to-nation/live-75639462?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-01-25T09:57:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Bulgarians quit Germany, choose remote work",
-            "link": "https://www.dw.com/en/bulgarians-quit-germany-choose-remote-work/a-75613408?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-01-24T10:15:00Z",
+            "title": "Japan returns last 2 pandas to China amid strained ties",
+            "link": "https://www.dw.com/en/japan-returns-last-2-pandas-to-china-amid-strained-ties/a-75647554?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-01-25T09:14:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Ukraine updates: Russia hits Kyiv, Kharkiv, amid peace talks",
-            "link": "https://www.dw.com/en/ukraine-updates-russia-hits-kyiv-kharkiv-amid-peace-talks/live-75614291?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-01-24T09:54:00Z",
+            "title": "Minneapolis: ICE agents shoot dead nurse Alex Pretti",
+            "link": "https://www.dw.com/en/minneapolis-ice-agents-shoot-dead-nurse-alex-pretti/live-75641710?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-01-25T08:39:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Germany weighs boon and bane of China's industrial expansion",
-            "link": "https://www.dw.com/en/germany-weighs-boon-and-bane-of-china-s-industrial-expansion/a-75583089?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-01-24T09:43:00Z",
+            "title": "US–EU economic ties show why neither side can decouple",
+            "link": "https://www.dw.com/en/us-eu-economic-ties-show-why-neither-side-can-decouple/a-75610955?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-01-25T06:53:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "New Zealand works to identify human remains after landslide",
-            "link": "https://www.dw.com/en/new-zealand-works-to-identify-human-remains-after-landslide/a-75637721?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-01-24T07:56:00Z",
+            "title": "Junta-backed party poised to win Myanmar elections",
+            "link": "https://www.dw.com/en/junta-backed-party-poised-to-win-myanmar-elections/a-75646268?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-01-25T06:13:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Australian boy injured by shark dies",
-            "link": "https://www.dw.com/en/australian-boy-injured-by-shark-dies/a-75636311?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-01-24T06:17:00Z",
+            "title": "Tanzania's Maasai, wildlife corridor face growing pressure",
+            "link": "https://www.dw.com/en/tanzania-s-maasai-wildlife-corridor-face-growing-pressure/a-75447264?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-01-25T06:00:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Australian Open: Outside play suspended over extreme heat",
-            "link": "https://www.dw.com/en/australian-open-outside-play-suspended-over-extreme-heat/a-75636537?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-01-24T06:09:00Z",
+            "title": "Blood supplies running low in Germany",
+            "link": "https://www.dw.com/en/blood-supplies-running-low-in-germany/a-75633112?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-01-25T05:59:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Half of US braces for huge winter storm",
-            "link": "https://www.dw.com/en/half-of-us-braces-for-huge-winter-storm/a-75621241?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-01-24T04:14:00Z",
+            "title": "US winter storm: 13,000 flights canceled as temperatures dip",
+            "link": "https://www.dw.com/en/us-winter-storm-13-000-flights-canceled-as-temperatures-dip/a-75645912?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-01-25T03:26:00Z",
             "source": "DW (Germany)"
         }
     ]
