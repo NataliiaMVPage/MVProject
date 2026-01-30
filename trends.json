@@ -1,64 +1,64 @@
 {
-    "updated_at": "2026-01-29T12:38:41.548919+00:00",
+    "updated_at": "2026-01-30T12:36:46.181955+00:00",
     "news": [
         {
-            "title": "What could happen if the US strikes Iran? Here are seven scenarios",
-            "link": "https://www.bbc.com/news/articles/ce3kenge1k9o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 29 Jan 2026 06:43:49 GMT",
+            "title": "Trump says 'it would be great' if US 'didn't have to use' military force on Iran",
+            "link": "https://www.bbc.com/news/articles/c394ymdpjwvo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 30 Jan 2026 09:52:10 GMT",
             "source": "BBC"
         },
         {
-            "title": "Talks ramp up to avert US government shutdown after Minneapolis shooting",
+            "title": "Ukraine sees quieter night as Trump says Putin will not attack its cities",
+            "link": "https://www.bbc.com/news/articles/c4g4yj92kwro?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 30 Jan 2026 12:03:46 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "Panama voids Hong Kong-based firm's canal port contracts",
+            "link": "https://www.bbc.com/news/articles/c338ygzl7meo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 30 Jan 2026 11:33:30 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "Burkina Faso junta announces ban on all political parties",
+            "link": "https://www.bbc.com/news/articles/cevnlv9my1no?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 30 Jan 2026 11:43:34 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "Trump and his sons sue IRS and US Treasury over leaked tax information",
+            "link": "https://www.bbc.com/news/articles/c23ryyrx40yo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 30 Jan 2026 02:37:40 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "Man accused of impersonating FBI agent in bid to free Luigi Mangione",
+            "link": "https://www.bbc.com/news/articles/c4g0y6yp2vno?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 30 Jan 2026 00:08:47 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "Music legend Fela Kuti becomes first African to get Grammys Lifetime Achievement Award",
+            "link": "https://www.bbc.com/news/articles/czx1207757xo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 30 Jan 2026 00:13:13 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "Worried families in India urge return of crew on ship seized by Iran",
+            "link": "https://www.bbc.com/news/articles/cdrenj55gdvo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 30 Jan 2026 10:22:47 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "France moves to abolish concept of marital duty to have sex",
+            "link": "https://www.bbc.com/news/articles/cgjwxdz45ywo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 29 Jan 2026 16:00:41 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "Republicans and Democrats reach funding package deal, US president says",
             "link": "https://www.bbc.com/news/articles/cn9zp0nyvxdo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 29 Jan 2026 11:03:08 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "Border agents involved in fatal shooting of Alex Pretti placed on leave",
-            "link": "https://www.bbc.com/news/articles/ckgn0w129lqo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 29 Jan 2026 10:22:54 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "Heavy gunfire and blasts heard near airport in Niger's capital",
-            "link": "https://www.bbc.com/news/articles/cvgp47neze4o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 29 Jan 2026 12:35:27 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "China executes 11 members of Myanmar scam mafia",
-            "link": "https://www.bbc.com/news/articles/cx2gdrvy9gjo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 29 Jan 2026 06:30:35 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "Flights to northern Ethiopia cancelled as fears mount of renewed conflict",
-            "link": "https://www.bbc.com/news/articles/cn40r3v770lo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 29 Jan 2026 11:59:18 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "Indians pay tribute after Arijit Singh retires at 38 as Bollywood singer",
-            "link": "https://www.bbc.com/news/articles/cddgpp7jpm8o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 29 Jan 2026 01:54:47 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "Plane crashes in Colombia, killing all 15 on board",
-            "link": "https://www.bbc.com/news/articles/cvgnq54v79xo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 28 Jan 2026 22:48:52 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "At least five killed after Storm Kristin hits Portugal",
-            "link": "https://www.bbc.com/news/articles/c205yl3kvzmo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 28 Jan 2026 22:59:48 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "Trump warns Iran 'time is running out' for nuclear deal as US military builds up in Gulf",
-            "link": "https://www.bbc.com/news/articles/cly5pd459gko?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 29 Jan 2026 05:47:03 GMT",
+            "published": "Fri, 30 Jan 2026 01:48:09 GMT",
             "source": "BBC"
         },
         {
@@ -122,63 +122,63 @@
             "source": "CNN"
         },
         {
-            "title": "Anti-woke Germans in Russia used as propaganda for Putin",
-            "link": "https://www.dw.com/en/anti-woke-germans-in-russia-used-as-propaganda-for-putin/a-75703443?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-01-29T12:09:00Z",
+            "title": "Trump names former Federal Reserve offical as next Fed chair",
+            "link": "https://www.dw.com/en/trump-names-former-federal-reserve-offical-as-next-fed-chair/a-75729920?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-01-30T12:33:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Trump tariffs, dollar's dip a double-hit to eurozone exports",
-            "link": "https://www.dw.com/en/trump-tariffs-dollar-s-dip-a-double-hit-to-eurozone-exports/a-75696199?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-01-29T11:50:00Z",
+            "title": "Ukraine updates: Kremlin says Trump asked Putin not to hit Kyiv until Feb 1",
+            "link": "https://www.dw.com/en/ukraine-updates-kremlin-says-trump-asked-putin-not-to-hit-kyiv-until-feb-1/live-75726689?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-01-30T11:24:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "EU set to put Iran Revolutionary Guards on 'terrorist list'",
-            "link": "https://www.dw.com/en/eu-set-to-put-iran-revolutionary-guards-on-terrorist-list/a-75709293?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-01-29T10:29:00Z",
+            "title": "The hidden money behind deep-sea mining",
+            "link": "https://www.dw.com/en/the-hidden-money-behind-deep-sea-mining/a-75723552?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-01-30T11:19:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Ukraine is facing 'humanitarian catastrophe,' EU warns",
-            "link": "https://www.dw.com/en/ukraine-is-facing-humanitarian-catastrophe-eu-warns/live-75709229?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-01-29T10:18:00Z",
+            "title": "China to take 'necessary action' after Panama port ruling",
+            "link": "https://www.dw.com/en/china-to-take-necessary-action-after-panama-port-ruling/a-75724866?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-01-30T10:29:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Senegal and Morocco fined and banned after AFCON final chaos",
-            "link": "https://www.dw.com/en/senegal-and-morocco-fined-and-banned-after-afcon-final-chaos/a-75708036?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-01-29T10:02:00Z",
+            "title": "Germany news: Hamburg police investigating subway deaths",
+            "link": "https://www.dw.com/en/germany-news-hamburg-police-investigating-subway-deaths/live-75724858?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-01-30T10:22:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Why fans are obsessed with 'Bridgerton'",
-            "link": "https://www.dw.com/en/why-fans-are-obsessed-with-bridgerton/a-75700861?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-01-29T09:51:00Z",
+            "title": "2026 Winter Olympics: Fun events, but what about the bill?",
+            "link": "https://www.dw.com/en/2026-winter-olympics-fun-events-but-what-about-the-bill/a-75566418?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-01-30T09:24:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Confusion, anger in post-coup Guinea-Bissau",
-            "link": "https://www.dw.com/en/confusion-anger-in-post-coup-guinea-bissau/a-75666062?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-01-29T09:34:00Z",
+            "title": "Cyprus to Greenland: Could UK military bases guide US moves?",
+            "link": "https://www.dw.com/en/cyprus-to-greenland-could-uk-military-bases-guide-us-moves/a-75722208?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-01-30T09:23:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Heating with air conditioning saves on cost and cuts CO2",
-            "link": "https://www.dw.com/en/heating-with-air-conditioning-saves-on-cost-and-cuts-co2/a-75623290?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-01-29T09:19:00Z",
+            "title": "Ukraine at war: Battered by Russia and winter but unbending",
+            "link": "https://www.dw.com/en/ukraine-at-war-battered-by-russia-and-winter-but-unbending/a-75720202?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-01-30T09:05:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Germany updates: Deutsche Bank announces record profits",
-            "link": "https://www.dw.com/en/germany-updates-deutsche-bank-announces-record-profits/live-75706500?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-01-29T09:04:00Z",
+            "title": "Syria: Kurdish-led SDF and government agree integration deal",
+            "link": "https://www.dw.com/en/syria-kurdish-led-sdf-and-government-agree-integration-deal/a-75724282?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-01-30T09:00:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "China executes 11 people tied to Myanmar scam compounds",
-            "link": "https://www.dw.com/en/china-executes-11-people-tied-to-myanmar-scam-compounds/a-75706161?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-01-29T07:43:00Z",
+            "title": "Trump sues IRS tax agency, Treasury over leaked records",
+            "link": "https://www.dw.com/en/trump-sues-irs-tax-agency-treasury-over-leaked-records/a-75722135?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-01-30T06:45:00Z",
             "source": "DW (Germany)"
         }
     ]
