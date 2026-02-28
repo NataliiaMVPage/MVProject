@@ -1,64 +1,64 @@
 {
-    "updated_at": "2026-02-27T12:39:41.901959+00:00",
+    "updated_at": "2026-02-28T12:29:35.966381+00:00",
     "news": [
         {
-            "title": "What we know after latest escalation in Pakistan-Afghanistan tensions",
-            "link": "https://www.bbc.com/news/articles/cj32zx48xvxo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 27 Feb 2026 11:45:02 GMT",
+            "title": "What we know about the joint US-Israel attack on Iran",
+            "link": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 28 Feb 2026 12:16:20 GMT",
             "source": "BBC"
         },
         {
-            "title": "Hillary Clinton tells House panel she 'had no idea' of Epstein's crimes",
-            "link": "https://www.bbc.com/news/articles/cd6z3e1vdvzo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 27 Feb 2026 07:19:18 GMT",
+            "title": "Bill Clinton asked about hot tub photo and testifies he knew 'nothing' of Epstein crimes",
+            "link": "https://www.bbc.com/news/articles/cvg345qvld5o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 28 Feb 2026 03:43:56 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "At least 15 killed after military plane carrying banknotes crashes in Bolivia",
+            "link": "https://www.bbc.com/news/articles/c0rjpxxpp49o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 28 Feb 2026 06:01:03 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "Trump orders government to stop using Anthropic in battle over AI use",
+            "link": "https://www.bbc.com/news/articles/cn48jj3y8ezo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 28 Feb 2026 03:50:05 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "A 'delicate' balance for Canada and a 'win-win' for Modi as Carney visits India",
+            "link": "https://www.bbc.com/news/articles/c1l7q871gnro?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 28 Feb 2026 00:03:55 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "Aid groups in Gaza and West Bank thrown lifeline as Israel court pauses ban threat",
+            "link": "https://www.bbc.com/news/articles/cd6z382de8yo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 27 Feb 2026 20:31:27 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "DOJ charges 30 more people in Minnesota anti-ICE church protest",
+            "link": "https://www.bbc.com/news/articles/cx2j0w1z3z1o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 28 Feb 2026 02:17:20 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "Tram derails in Milan, leaving two dead and dozens injured",
+            "link": "https://www.bbc.com/news/articles/c5y599degnqo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 27 Feb 2026 19:03:10 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "Pakistan defence minister says country in 'open war' with Afghanistan after strikes",
+            "link": "https://www.bbc.com/news/articles/cvgjd7pv4y4o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 27 Feb 2026 13:19:18 GMT",
             "source": "BBC"
         },
         {
             "title": "Why Trump means the Cuban Revolution faces its biggest threat yet",
             "link": "https://www.bbc.com/news/articles/c9q5wdeg4j8o?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 27 Feb 2026 06:00:38 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "Jack Dorsey's Block cuts thousands of jobs as it embraces AI",
-            "link": "https://www.bbc.com/news/articles/cq570d12y9do?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 27 Feb 2026 00:06:40 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "Paramount set for $111bn Warner Bros takeover after Netflix drops bid",
-            "link": "https://www.bbc.com/news/articles/c5y6p5ypgmzo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 27 Feb 2026 04:32:38 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "Epstein tried to buy a palace in Morocco days before his arrest in 2019",
-            "link": "https://www.bbc.com/news/articles/c1w5848vq51o?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 27 Feb 2026 06:02:12 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "At least 55 Ghanaians killed in Russia-Ukraine war, minister says",
-            "link": "https://www.bbc.com/news/articles/cgl5gxg3zj9o?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 27 Feb 2026 10:56:45 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "Drone jammed near French aircraft carrier was probably Russian, says Sweden",
-            "link": "https://www.bbc.com/news/articles/c1mj3e2nz8ko?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 27 Feb 2026 10:34:36 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "American citizen among those killed in Cuba boat shooting, US official says",
-            "link": "https://www.bbc.com/news/articles/c80j3rlp904o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 26 Feb 2026 23:59:54 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "Danish PM calls snap election with Greenland issue centre-stage",
-            "link": "https://www.bbc.com/news/articles/ckg3e63jwj8o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 26 Feb 2026 13:56:39 GMT",
+            "published": "Fri, 27 Feb 2026 12:46:26 GMT",
             "source": "BBC"
         },
         {
@@ -122,63 +122,63 @@
             "source": "CNN"
         },
         {
-            "title": "Africans in the Ukraine war: Recruited as cannon fodder",
-            "link": "https://www.dw.com/en/africans-in-the-ukraine-war-recruited-as-cannon-fodder/a-76140879?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-02-27T12:25:00Z",
+            "title": "Pakistan says hundreds of Afghan Taliban fighters killed",
+            "link": "https://www.dw.com/en/pakistan-says-hundreds-of-afghan-taliban-fighters-killed/a-76164044?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-02-28T12:21:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Ethiopia's Tigray region could be on the brink of war, again",
-            "link": "https://www.dw.com/en/ethiopia-s-tigray-region-could-be-on-the-brink-of-war-again/a-76142512?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-02-27T12:04:00Z",
+            "title": "Iceland mulls joining the EU amid strained US relations",
+            "link": "https://www.dw.com/en/iceland-mulls-joining-the-eu-amid-strained-us-relations/a-76126362?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-02-28T11:48:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "EU to 'provisionally implement' controversial Mercosur deal",
-            "link": "https://www.dw.com/en/eu-to-provisionally-implement-controversial-mercosur-deal/a-76148877?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-02-27T11:07:00Z",
+            "title": "Strikes on Iran renew fears over Strait of Hormuz",
+            "link": "https://www.dw.com/en/strikes-on-iran-renew-fears-over-strait-of-hormuz/a-72952336?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-02-28T11:43:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Vincent Kompany: Bayern Munich's coach with a cause",
-            "link": "https://www.dw.com/en/vincent-kompany-bayern-munich-s-coach-with-a-cause/a-76135287?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-02-27T11:04:00Z",
+            "title": "Trump and Rubio have brought Cuba's government to the brink",
+            "link": "https://www.dw.com/en/trump-and-rubio-have-brought-cuba-s-government-to-the-brink/a-76158344?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-02-28T11:15:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Turkey's Ramadan directive reignites secularism debate",
-            "link": "https://www.dw.com/en/turkey-s-ramadan-directive-reignites-secularism-debate/a-76106615?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-02-27T10:35:00Z",
+            "title": "Lebanon on edge as US and Israel launch attack on Iran",
+            "link": "https://www.dw.com/en/lebanon-on-edge-as-us-and-israel-launch-attack-on-iran/a-76121309?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-02-28T09:39:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Pentagon pressures Anthropic in escalating AI showdown",
-            "link": "https://www.dw.com/en/pentagon-pressures-anthropic-in-escalating-ai-showdown/a-76119912?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-02-27T10:24:00Z",
+            "title": "Argentina approves Milei's divisive labor reform",
+            "link": "https://www.dw.com/en/argentina-approves-milei-s-divisive-labor-reform/a-76160981?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-02-28T08:36:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "UK Labour loses normally safe seat in blow to PM Starmer",
-            "link": "https://www.dw.com/en/uk-labour-loses-normally-safe-seat-in-blow-to-pm-starmer/a-76146175?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-02-27T10:07:00Z",
+            "title": "Houthi plans for a US-Iran war worry a weary Yemen",
+            "link": "https://www.dw.com/en/houthi-plans-for-a-us-iran-war-worry-a-weary-yemen/a-76152021?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-02-28T08:06:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Can President Kiir stabilize South Sudan?",
-            "link": "https://www.dw.com/en/can-president-kiir-stabilize-south-sudan/a-76121512?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-02-27T09:02:00Z",
+            "title": "Iran targets US bases amid joint US‑Israel attacks",
+            "link": "https://www.dw.com/en/iran-targets-us-bases-amid-joint-us‑israel-attacks/live-76161011?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-02-28T07:05:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Germany news: Strikes hit public transport across country",
-            "link": "https://www.dw.com/en/germany-news-strikes-hit-public-transport-across-country/live-76144424?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-02-27T08:21:00Z",
+            "title": "Israel says launched 'preemptive' strike against Iran",
+            "link": "https://www.dw.com/en/israel-says-launched-preemptive-strike-against-iran/a-76160973?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-02-28T06:36:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Pakistan says at 'open war' with Afghanistan after strikes",
-            "link": "https://www.dw.com/en/pakistan-says-at-open-war-with-afghanistan-after-strikes/live-76144088?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-02-27T07:44:00Z",
+            "title": "Germany is aging and shrinking much faster than expected",
+            "link": "https://www.dw.com/en/germany-is-aging-and-shrinking-much-faster-than-expected/a-76157438?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-02-28T06:12:00Z",
             "source": "DW (Germany)"
         }
     ]
