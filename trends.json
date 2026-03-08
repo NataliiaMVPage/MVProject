@@ -1,52 +1,46 @@
 {
-    "updated_at": "2026-03-07T12:30:32.322406+00:00",
+    "updated_at": "2026-03-08T12:32:04.401157+00:00",
     "news": [
         {
-            "title": "Trump demands 'unconditional surrender' from Iran as Putin speaks with Iran's president",
-            "link": "https://www.bbc.com/news/articles/c5yq82k1wk8o?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 07 Mar 2026 02:04:06 GMT",
+            "title": "Dozens killed as Israeli special forces raid Lebanese village in search of 40-year-old remains",
+            "link": "https://www.bbc.com/news/articles/cy8l2p2l3v0o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 07 Mar 2026 19:16:44 GMT",
             "source": "BBC"
         },
         {
-            "title": "Flight paths squeezed as Iran conflict closes more airspace",
-            "link": "https://www.bbc.com/news/articles/crrx1jgr4jjo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 06 Mar 2026 18:09:19 GMT",
+            "title": "War fuels debate in Cyprus over UK military bases",
+            "link": "https://www.bbc.com/news/articles/cx2r1xldl1ko?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 08 Mar 2026 08:03:40 GMT",
             "source": "BBC"
         },
         {
-            "title": "Armed robots take to the battlefield in Ukraine war",
-            "link": "https://www.bbc.com/news/articles/c62662gzlp8o?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 07 Mar 2026 00:36:19 GMT",
+            "title": "Explosion at US embassy in Oslo may have been terrorism, Norway police say",
+            "link": "https://www.bbc.com/news/articles/c5yjegg892lo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 08 Mar 2026 12:30:16 GMT",
             "source": "BBC"
         },
         {
-            "title": "We've been speaking to Iranians during one week of war. Here's what they said",
-            "link": "https://www.bbc.com/news/articles/c5y5lqygrn7o?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 07 Mar 2026 06:00:32 GMT",
+            "title": "Boy, 12, among six dead as tornadoes hit Michigan and Oklahoma",
+            "link": "https://www.bbc.com/news/articles/crrxpwzvd5vo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 08 Mar 2026 01:08:16 GMT",
             "source": "BBC"
         },
         {
-            "title": "Israeli troops push into Lebanon for yet another war with Iran's proxy Hezbollah",
-            "link": "https://www.bbc.com/news/articles/cpv8xlvk3p4o?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 06 Mar 2026 16:16:05 GMT",
+            "title": "Iranian ambassador warns UK to be 'very careful' about further involvement in war",
+            "link": "https://www.bbc.com/news/articles/cq6qp458zv1o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 07 Mar 2026 16:53:57 GMT",
             "source": "BBC"
         },
         {
-            "title": "'Massive' numbers killed by gunmen in latest Nigeria attack, senator tells BBC",
-            "link": "https://www.bbc.com/news/articles/c1d69z3p9g2o?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 06 Mar 2026 17:06:14 GMT",
+            "title": "Rapper-politician Balendra Shah unseats Nepal's ex-PM as he heads for victory",
+            "link": "https://www.bbc.com/news/articles/c93w6y0lnd9o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 08 Mar 2026 04:36:12 GMT",
             "source": "BBC"
         },
         {
-            "title": "Russian strike on Kharkiv apartment block kills seven",
-            "link": "https://www.bbc.com/news/articles/cn8zd049l08o?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 07 Mar 2026 07:54:22 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "China spent years building ties in Latin America. Can Trump make room for the US?",
-            "link": "https://www.bbc.com/news/articles/c5yvw0zwpd5o?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 07 Mar 2026 01:56:20 GMT",
+            "title": "Heavy rains and flooding kills at least 23 in Nairobi",
+            "link": "https://www.bbc.com/news/articles/cn87pl8e2l5o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 07 Mar 2026 12:21:40 GMT",
             "source": "BBC"
         },
         {
@@ -56,9 +50,15 @@
             "source": "BBC"
         },
         {
-            "title": "Indonesia to ban social media and other online platforms for under 16s",
-            "link": "https://www.bbc.com/news/articles/cvg50168ddgo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 06 Mar 2026 13:25:12 GMT",
+            "title": "Russian strike on Kharkiv apartment block kills ten",
+            "link": "https://www.bbc.com/news/articles/cn8zd049l08o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 07 Mar 2026 07:54:22 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "Armed robots take to the battlefield in Ukraine war",
+            "link": "https://www.bbc.com/news/articles/c62662gzlp8o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 07 Mar 2026 00:36:19 GMT",
             "source": "BBC"
         },
         {
@@ -122,63 +122,63 @@
             "source": "CNN"
         },
         {
-            "title": "Iran, Germany and the end of the rules-based order",
-            "link": "https://www.dw.com/en/iran-germany-and-the-end-of-the-rules-based-order/a-76227458?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-03-07T12:19:00Z",
+            "title": "International Women’s Day: Workplace equality needs action",
+            "link": "https://www.dw.com/en/international-women-s-day-workplace-equality-needs-action/a-76210160?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-03-08T09:54:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Will Ukraine help Gulf states down Iranian drones?",
-            "link": "https://www.dw.com/en/will-ukraine-help-gulf-states-down-iranian-drones/a-76255467?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-03-07T12:11:00Z",
+            "title": "Germany news: Merz's CDU, Greens in tight race in state poll",
+            "link": "https://www.dw.com/en/germany-news-merz-s-cdu-greens-in-tight-race-in-state-poll/live-76265491?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-03-08T07:47:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Germany news: State election set to test Merz's popularity",
-            "link": "https://www.dw.com/en/germany-news-state-election-set-to-test-merz-s-popularity/live-76257633?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-03-07T08:32:00Z",
+            "title": "Why Iran depends on exports to China",
+            "link": "https://www.dw.com/en/why-iran-depends-on-exports-to-china/a-76217232?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-03-08T07:44:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Iran war destabilizes Middle East politics",
-            "link": "https://www.dw.com/en/iran-war-destabilizes-middle-east-politics/a-76250371?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-03-07T07:52:00Z",
+            "title": "Spain: digital technology to combat gender-based violence",
+            "link": "https://www.dw.com/en/spain-digital-technology-to-combat-gender-based-violence/a-76260337?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-03-08T07:29:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "India news: Iranian warship docked in Kochi, Jaishankar says",
-            "link": "https://www.dw.com/en/india-news-iranian-warship-docked-in-kochi-jaishankar-says/live-76256605?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-03-07T06:45:00Z",
+            "title": "Energy bottleneck in Middle East is damaging German economy",
+            "link": "https://www.dw.com/en/energy-bottleneck-in-middle-east-is-damaging-german-economy/a-76253265?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-03-08T06:14:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "German state election set to have far-reaching consequences",
-            "link": "https://www.dw.com/en/german-state-election-set-to-have-far-reaching-consequences/a-76188172?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-03-07T06:18:00Z",
+            "title": "India news: India set for New Zealand clash in T20 final",
+            "link": "https://www.dw.com/en/india-news-india-set-for-new-zealand-clash-in-t20-final/live-76264189?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-03-08T06:07:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "US, Ecuador launch joint anti-drug strikes",
-            "link": "https://www.dw.com/en/us-ecuador-launch-joint-anti-drug-strikes/a-76256541?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-03-07T03:17:00Z",
+            "title": "Why all the hype for 'The Devil Wears Prada 2'?",
+            "link": "https://www.dw.com/en/why-all-the-hype-for-the-devil-wears-prada-2/a-76209985?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-03-08T05:18:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Iran's president apologizes to neighbors, defies US demands",
-            "link": "https://www.dw.com/en/iran-s-president-apologizes-to-neighbors-defies-us-demands/live-76256213?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-03-07T02:32:00Z",
+            "title": "Explosion hits near US Embassy in Norway, no injuries",
+            "link": "https://www.dw.com/en/explosion-hits-near-us-embassy-in-norway-no-injuries/a-76264170?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-03-08T04:11:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Nepal: Early vote returns suggest massive political shift",
-            "link": "https://www.dw.com/en/nepal-early-vote-returns-suggest-massive-political-shift/a-76255769?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-03-06T22:17:00Z",
+            "title": "New York: Man detained as devices thrown at anti-Islam rally",
+            "link": "https://www.dw.com/en/new-york-man-detained-as-devices-thrown-at-anti-islam-rally/a-76264026?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-03-08T03:13:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Do Americans support Trump's Iran war?",
-            "link": "https://www.dw.com/en/do-americans-support-trump-s-iran-war/a-76251116?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-03-06T20:50:00Z",
+            "title": "Iran war: Israel strikes oil storage sites near Tehran",
+            "link": "https://www.dw.com/en/iran-war-israel-strikes-oil-storage-sites-near-tehran/live-76263936?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-03-08T02:52:00Z",
             "source": "DW (Germany)"
         }
     ]
