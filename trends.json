@@ -1,64 +1,64 @@
 {
-    "updated_at": "2026-04-22T13:08:58.336380+00:00",
+    "updated_at": "2026-04-23T13:07:43.780747+00:00",
     "news": [
         {
-            "title": "Trump buys time for Iran deal after frantic day of diplomacy",
-            "link": "https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 22 Apr 2026 00:32:10 GMT",
+            "title": "Two trains collide head-on in Denmark, leaving five critically hurt",
+            "link": "https://www.bbc.com/news/articles/cgqkw3qk0dlo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 23 Apr 2026 11:08:56 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "Lebanon accuses Israel of targeting journalist killed in air strike",
+            "link": "https://www.bbc.com/news/articles/c5yvn036evlo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 23 Apr 2026 04:25:30 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "US Navy chief leaving post 'effective immediately', Pentagon says",
+            "link": "https://www.bbc.com/news/articles/ce9ml02g5k7o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 23 Apr 2026 08:37:14 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "Girl, 14, found in singer D4vd's car died of 'multiple injuries'",
+            "link": "https://www.bbc.com/news/articles/cr41yx7pxglo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 23 Apr 2026 00:39:56 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "South African court orders Zambia to return former president's body",
+            "link": "https://www.bbc.com/news/articles/cdj7vgwwzgdo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 23 Apr 2026 11:39:55 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "Pope Leo criticises Equatorial Guinea prisons as he winds up Africa tour",
+            "link": "https://www.bbc.com/news/articles/c80m4822m1no?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 23 Apr 2026 11:42:44 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "Billionaire backer sues Trump family's crypto firm over alleged extortion",
+            "link": "https://www.bbc.com/news/articles/c8x7kxjgq9xo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 22 Apr 2026 18:10:42 GMT",
             "source": "BBC"
         },
         {
             "title": "EU approves €90bn loan for Ukraine as pipeline is turned on ending deadlock",
             "link": "https://www.bbc.com/news/articles/cnv8l99r3yyo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 22 Apr 2026 11:19:57 GMT",
+            "published": "Wed, 22 Apr 2026 17:48:44 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "Nigeria's suspected coup plotters deny treason charges",
+            "link": "https://www.bbc.com/news/articles/c0krlxg384eo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 22 Apr 2026 17:33:30 GMT",
             "source": "BBC"
         },
         {
             "title": "Lufthansa cuts 20,000 summer flights as fuel prices surge",
             "link": "https://www.bbc.com/news/articles/cre1r4n5j5wo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 22 Apr 2026 10:31:29 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "Mexico officials say Teotihuacán gunman carried material related to US mass shooting",
-            "link": "https://www.bbc.com/news/articles/c393mped8zjo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 22 Apr 2026 03:11:57 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "South Korean fighter jets collided due to pilots taking pictures, report finds",
-            "link": "https://www.bbc.com/news/articles/czjwz8we1zzo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 22 Apr 2026 08:35:34 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "Taiwan president cancels trip after African countries revoke flight permits",
-            "link": "https://www.bbc.com/news/articles/crl16p72x7xo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 22 Apr 2026 06:25:15 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "UAE-backed Colombian mercenaries provided support to Sudan paramilitary, report says",
-            "link": "https://www.bbc.com/news/articles/cn4vk13wgwwo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 22 Apr 2026 04:01:50 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "Thirteen killed in second India fireworks blast in three days",
-            "link": "https://www.bbc.com/news/articles/cwydzddp4j9o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 22 Apr 2026 05:55:18 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "Meta to track workers' clicks and keystrokes to train AI",
-            "link": "https://www.bbc.com/news/articles/cvglyklz49jo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 21 Apr 2026 22:47:56 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "From Epstein to sock puppets: Key takeaways from Kevin Warsh's Fed confirmation hearing",
-            "link": "https://www.bbc.com/news/articles/c8dl3ez4mpno?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 21 Apr 2026 18:59:39 GMT",
+            "published": "Wed, 22 Apr 2026 15:00:40 GMT",
             "source": "BBC"
         },
         {
@@ -122,63 +122,63 @@
             "source": "CNN"
         },
         {
-            "title": "Iran war fuels crisis for Africa's aviation sector",
-            "link": "https://www.dw.com/en/iran-war-fuels-crisis-for-africa-s-aviation-sector/a-76874774?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-04-22T12:51:00Z",
+            "title": "Iran: Daily life shadowed by war, scarcity and fear",
+            "link": "https://www.dw.com/en/iran-daily-life-shadowed-by-war-scarcity-and-fear/a-76912143?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-04-23T13:05:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Russia to block Kazakh oil flows on key pipeline supplying Berlin",
-            "link": "https://www.dw.com/en/russia-to-block-kazakh-oil-flows-on-key-pipeline-supplying-berlin/a-76895743?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-04-22T12:35:00Z",
+            "title": "Pope Leo's Africa trip pushes peace and unity",
+            "link": "https://www.dw.com/en/pope-leo-s-africa-trip-pushes-peace-and-unity/a-76906045?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-04-23T12:38:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "EU unblocks €90 billion loan to Ukraine",
-            "link": "https://www.dw.com/en/eu-unblocks-€90-billion-loan-to-ukraine/a-76895753?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-04-22T12:05:00Z",
+            "title": "EU leaders to discuss Iran, Ukraine at Cyprus summit",
+            "link": "https://www.dw.com/en/eu-leaders-to-discuss-iran-ukraine-at-cyprus-summit/a-76910626?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-04-23T12:00:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "The rise and fall of East Germany's Palace of the Republic",
-            "link": "https://www.dw.com/en/the-rise-and-fall-of-east-germany-s-palace-of-the-republic/a-76836834?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-04-22T11:58:00Z",
+            "title": "Iran war: Standoff at Hormuz casts shadow over Iran ceasefire talks",
+            "link": "https://www.dw.com/en/iran-war-standoff-at-hormuz-casts-shadow-over-iran-ceasefire-talks/live-76903459?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-04-23T11:53:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Ukraine says Russian oil to Hungary, Slovakia has restarted",
-            "link": "https://www.dw.com/en/ukraine-says-russian-oil-to-hungary-slovakia-has-restarted/a-76894770?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-04-22T11:46:00Z",
+            "title": "How Ukraine is rebuilding its energy system under fire",
+            "link": "https://www.dw.com/en/how-ukraine-is-rebuilding-its-energy-system-under-fire/a-76907346?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-04-23T11:37:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Iran war: Revolutionary Guard says seizes ships in Hormuz",
-            "link": "https://www.dw.com/en/iran-war-revolutionary-guard-says-seizes-ships-in-hormuz/live-76889868?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-04-22T10:47:00Z",
+            "title": "Unpacking the 2026 Venice Biennale controversies and highlights",
+            "link": "https://www.dw.com/en/unpacking-the-2026-venice-biennale-controversies-and-highlights/a-76807499?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-04-23T10:45:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Israeli ambassador: 'Only a strong Israel can achieve peace'",
-            "link": "https://www.dw.com/en/israeli-ambassador-only-a-strong-israel-can-achieve-peace/a-76889132?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-04-22T10:17:00Z",
+            "title": "Reza Pahlavi calls for regime change in Iran on Berlin visit",
+            "link": "https://www.dw.com/en/reza-pahlavi-calls-for-regime-change-in-iran-on-berlin-visit/a-76906351?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-04-23T10:26:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Avoid men, German police association chief tells women",
-            "link": "https://www.dw.com/en/avoid-men-german-police-association-chief-tells-women/a-76893402?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-04-22T10:16:00Z",
+            "title": "Amnesty International paints a grim picture for human rights",
+            "link": "https://www.dw.com/en/amnesty-international-paints-a-grim-picture-for-human-rights/a-76837070?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-04-23T10:15:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Will Iran war reshape global trade more than COVID?",
-            "link": "https://www.dw.com/en/will-iran-war-reshape-global-trade-more-than-covid/a-76804278?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-04-22T09:41:00Z",
+            "title": "Germany news: Bavarian police arrest suspected spies",
+            "link": "https://www.dw.com/en/germany-news-bavarian-police-arrest-suspected-spies/live-76905577?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-04-23T09:55:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Germany news: Lufthansa scraps 20,000 flights",
-            "link": "https://www.dw.com/en/germany-news-lufthansa-scraps-20-000-flights/live-76891766?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-04-22T09:29:00Z",
+            "title": "A booklover's dream holiday in Scotland",
+            "link": "https://www.dw.com/en/a-booklover-s-dream-holiday-in-scotland/a-76884546?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-04-23T08:22:00Z",
             "source": "DW (Germany)"
         }
     ]
