@@ -1,22 +1,52 @@
 {
-    "updated_at": "2026-05-02T12:52:24.829374+00:00",
+    "updated_at": "2026-05-03T12:52:17.883307+00:00",
     "news": [
         {
-            "title": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
-            "link": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 02 May 2026 08:14:09 GMT",
+            "title": "Germany troop cuts send wrong signal to Russia, say two top US Republicans",
+            "link": "https://www.bbc.com/news/articles/cewpx5yvwyxo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 03 May 2026 08:41:23 GMT",
             "source": "BBC"
         },
         {
-            "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
-            "link": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 02 May 2026 00:41:43 GMT",
+            "title": "Russian strikes kill 10 as Zelensky says Ukraine hits oil tankers and terminal",
+            "link": "https://www.bbc.com/news/articles/clyp41v1n1go?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 03 May 2026 12:05:59 GMT",
             "source": "BBC"
         },
         {
-            "title": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says",
-            "link": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 02 May 2026 11:03:40 GMT",
+            "title": "Nigeria summons South African envoy over attacks on its nationals",
+            "link": "https://www.bbc.com/news/articles/c78q6e98878o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 03 May 2026 10:16:01 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "Huge crowd attends free Shakira Copacabana beach concert",
+            "link": "https://www.bbc.com/news/videos/c8r8j50zxnno?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 03 May 2026 07:56:47 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "Man charged with murder and sexual assault of 5-year-old Australian girl",
+            "link": "https://www.bbc.com/news/articles/cy92qennznjo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 03 May 2026 05:52:09 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?",
+            "link": "https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 02 May 2026 23:19:27 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "The clandestine network smuggling Starlink tech into Iran to beat internet blackout",
+            "link": "https://www.bbc.com/news/articles/cvgzk91leweo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 02 May 2026 23:17:17 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "Concern for jailed Iranian Nobel laureate as family say health deteriorating",
+            "link": "https://www.bbc.com/news/articles/c362pd8epw9o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 02 May 2026 17:55:06 GMT",
             "source": "BBC"
         },
         {
@@ -26,39 +56,9 @@
             "source": "BBC"
         },
         {
-            "title": "Ex-F1 driver and Paralympic champion Zanardi dies",
-            "link": "https://www.bbc.com/sport/formula1/articles/cvgz0kpxjpgo?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 02 May 2026 09:08:43 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "Who shot a Secret Service officer at the Trump press dinner?",
-            "link": "https://www.bbc.com/news/articles/cm2pmk0r3pjo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 01 May 2026 21:44:05 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "Spirit Airlines shutting down after rescue talks collapse",
-            "link": "https://www.bbc.com/news/articles/cqxlnrqjvzyo?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 02 May 2026 07:55:47 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "Trump claims other presidents flouted war powers law. It's a mixed record",
-            "link": "https://www.bbc.com/news/articles/c794zlx5lx8o?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 02 May 2026 02:43:48 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "US court limits mail-order access to abortion pill mifepristone",
-            "link": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 02 May 2026 02:22:57 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "War criminal Mladic close to death, say lawyers asking judge for jail release",
-            "link": "https://www.bbc.com/news/articles/c3e283g80n4o?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 01 May 2026 15:12:14 GMT",
+            "title": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says",
+            "link": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 02 May 2026 16:51:18 GMT",
             "source": "BBC"
         },
         {
@@ -122,63 +122,63 @@
             "source": "CNN"
         },
         {
-            "title": "Mali probes soldiers over role in Jihadi attacks",
-            "link": "https://www.dw.com/en/mali-probes-soldiers-over-role-in-jihadi-attacks/a-77018413?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-05-02T11:58:00Z",
+            "title": "How Serbia's government dominates the country's media",
+            "link": "https://www.dw.com/en/how-serbia-s-government-dominates-the-country-s-media/a-77004243?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-05-03T11:52:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Alex Zanardi, F1 driver and multiple CART and Paralympic champion, dies at 59",
-            "link": "https://www.dw.com/en/alex-zanardi-f1-driver-and-multiple-cart-and-paralympic-champion-dies-at-59/a-77018399?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-05-02T11:46:00Z",
+            "title": "Ukrainian drones hit Russia's Primorsk oil terminal",
+            "link": "https://www.dw.com/en/ukrainian-drones-hit-russia-s-primorsk-oil-terminal/a-77023217?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-05-03T10:49:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Germany news: US troop pullout 'expected' — Pistorius",
-            "link": "https://www.dw.com/en/germany-news-us-troop-pullout-expected-pistorius/live-77018194?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-05-02T10:45:00Z",
+            "title": "Philippines' Mayon volcano spews ash — Pictures",
+            "link": "https://www.dw.com/en/philippines-mayon-volcano-spews-ash-pictures/a-77022712?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-05-03T09:22:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Iran: Jailed Nobel winner Narges Mohammadi hospitalized",
-            "link": "https://www.dw.com/en/iran-jailed-nobel-winner-narges-mohammadi-hospitalized/a-77017010?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-05-02T08:18:00Z",
+            "title": "Germany news: Majority thinks coalition government doomed — survey",
+            "link": "https://www.dw.com/en/germany-news-majority-thinks-coalition-government-doomed-survey/live-77022566?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-05-03T08:39:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "How the Iran war is hurting travelers, airline industry",
-            "link": "https://www.dw.com/en/how-the-iran-war-is-hurting-travelers-airline-industry/a-77000742?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-05-02T07:57:00Z",
+            "title": "Millions sway as free Shakira concert lights up Copacabana",
+            "link": "https://www.dw.com/en/millions-sway-as-free-shakira-concert-lights-up-copacabana/a-77022547?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-05-03T07:55:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "US to withdraw thousands of troops from Germany",
-            "link": "https://www.dw.com/en/us-to-withdraw-thousands-of-troops-from-germany/a-77016071?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-05-02T07:52:00Z",
+            "title": "Trump says cutting US troops in Germany 'a lot further'",
+            "link": "https://www.dw.com/en/trump-says-cutting-us-troops-in-germany-a-lot-further/a-77022292?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-05-03T07:00:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Kosovo to hold snap elections in June",
-            "link": "https://www.dw.com/en/kosovo-to-hold-snap-elections-in-june/a-77003278?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-05-02T07:46:00Z",
+            "title": "Where Germany's economy still excels",
+            "link": "https://www.dw.com/en/where-germany-s-economy-still-excels/a-77020320?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-05-03T05:58:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Humpback whale Timmy released in North Sea but risk remains",
-            "link": "https://www.dw.com/en/humpback-whale-timmy-released-in-north-sea-but-risk-remains/a-77016789?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-05-02T07:43:00Z",
+            "title": "North Korea rejects US cybercrime claims as 'absurd slander'",
+            "link": "https://www.dw.com/en/north-korea-rejects-us-cybercrime-claims-as-absurd-slander/a-77021832?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-05-03T04:03:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "The significance of US military bases in Germany",
-            "link": "https://www.dw.com/en/the-significance-of-us-military-bases-in-germany/a-77015428?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-05-02T07:04:00Z",
+            "title": "Iran war: Trump says reviewing new Tehran proposal with doubt",
+            "link": "https://www.dw.com/en/iran-war-trump-says-reviewing-new-tehran-proposal-with-doubt/live-77021634?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-05-03T01:38:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Spirit Airlines says they are going out of business",
-            "link": "https://www.dw.com/en/spirit-airlines-says-they-are-going-out-of-business/a-77016867?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-05-02T06:43:00Z",
+            "title": "Why Russia's Northern Sea Route is a risky bet for global trade",
+            "link": "https://www.dw.com/en/why-russia-s-northern-sea-route-is-a-risky-bet-for-global-trade/a-76987400?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-05-02T19:43:00Z",
             "source": "DW (Germany)"
         }
     ]
