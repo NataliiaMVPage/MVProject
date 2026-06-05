@@ -1,64 +1,64 @@
 {
-    "updated_at": "2026-06-04T14:40:51.512551+00:00",
+    "updated_at": "2026-06-05T14:29:34.478316+00:00",
     "news": [
+        {
+            "title": "Ukraine strikes cargo ships and admits Romania drone blast as Putin prepares for key speech",
+            "link": "https://www.bbc.com/news/articles/c707098wkzpo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 05 Jun 2026 14:21:08 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "Zelensky proposes face-to-face talks in open letter to Putin",
+            "link": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 05 Jun 2026 08:03:23 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "Fury in France after child murder suspect's criminal record released",
+            "link": "https://www.bbc.com/news/articles/c1424v7mk8go?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 05 Jun 2026 11:32:51 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "Nearly 50 people die of thirst in Sahara desert after lorry breaks down",
+            "link": "https://www.bbc.com/news/articles/c62r2ldyejro?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 05 Jun 2026 13:36:03 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "US actor James Handy stabbed to death, with girlfriend's son arrested",
+            "link": "https://www.bbc.com/news/articles/czd2dj24jgdo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 05 Jun 2026 09:40:06 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "Mangrove forests are healing after decades of human destruction",
+            "link": "https://www.bbc.com/news/articles/cn4pk07npvvo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 04 Jun 2026 23:11:15 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "Ex-wife of Dubai ruler's nephew in custody, prosecutors say",
+            "link": "https://www.bbc.com/news/articles/cx2124zylxno?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 05 Jun 2026 05:44:44 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "Hospitality jobs boom as US prepares for World Cup",
+            "link": "https://www.bbc.com/news/articles/cdxpx4gel1yo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 05 Jun 2026 14:11:22 GMT",
+            "source": "BBC"
+        },
+        {
+            "title": "US journalist pleads guilty to working as China's agent",
+            "link": "https://www.bbc.com/news/articles/crmpmxg1ym4o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 05 Jun 2026 11:20:30 GMT",
+            "source": "BBC"
+        },
         {
             "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
             "link": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 04 Jun 2026 14:31:51 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "US House delivers rebuke to Trump as it votes to halt Iran war",
-            "link": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 04 Jun 2026 07:23:41 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "'Crazy' phone call between Trump and Netanyahu complicates Iran talks",
-            "link": "https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 03 Jun 2026 20:28:01 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "Israeli strikes kill 11 people in Gaza City, medics say",
-            "link": "https://www.bbc.com/news/articles/cg5prr9gr1ro?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 04 Jun 2026 11:07:12 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "Missing Sherpa guide found on Mount Everest after 'miracle' self-rescue",
-            "link": "https://www.bbc.com/news/articles/cvgz2yjl4y3o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 04 Jun 2026 10:18:49 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "Ukraine accused of killing four in occupied Crimea",
-            "link": "https://www.bbc.com/news/articles/c0r2klj0nyxo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 04 Jun 2026 11:55:20 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "Charges dropped against Budapest mayor over 2025 Pride march",
-            "link": "https://www.bbc.com/news/articles/cwy255wzdqro?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 04 Jun 2026 14:10:31 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "Heavy gunfire in Somali capital as row over election delay escalates",
-            "link": "https://www.bbc.com/news/articles/cpdpwgxl1qzo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 04 Jun 2026 12:40:22 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "Bondi Beach shooting hero charged with assault",
-            "link": "https://www.bbc.com/news/articles/cd7p11010g5o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 04 Jun 2026 11:22:18 GMT",
-            "source": "BBC"
-        },
-        {
-            "title": "Trump to nominate Blanche for attorney general on permanent basis",
-            "link": "https://www.bbc.com/news/articles/c4g8nyzl2pno?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 04 Jun 2026 08:11:25 GMT",
+            "published": "Fri, 05 Jun 2026 01:44:16 GMT",
             "source": "BBC"
         },
         {
@@ -122,63 +122,63 @@
             "source": "CNN"
         },
         {
-            "title": "Iran war: Hezbollah rejects Lebanon-Israel ceasefire terms",
-            "link": "https://www.dw.com/en/iran-war-hezbollah-rejects-lebanon-israel-ceasefire-terms/live-77415738?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-06-04T13:56:00Z",
+            "title": "North Korea quietly ramps up its nuclear program",
+            "link": "https://www.dw.com/en/north-korea-quietly-ramps-up-its-nuclear-program/a-77438060?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-06-05T13:47:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Germany: Lufthansa plane suffers nose gear collapse",
-            "link": "https://www.dw.com/en/germany-lufthansa-plane-suffers-nose-gear-collapse/a-77423104?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-06-04T13:29:00Z",
+            "title": "Why businesses are offering 'quiet hours'",
+            "link": "https://www.dw.com/en/why-businesses-are-offering-quiet-hours/a-77431877?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-06-05T13:42:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Germans at Russia's SPIEF: Who's really there?",
-            "link": "https://www.dw.com/en/germans-at-russia-s-spief-who-s-really-there/a-77416709?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-06-04T12:13:00Z",
+            "title": "Iran at war: Stability masks deepening crises",
+            "link": "https://www.dw.com/en/iran-at-war-stability-masks-deepening-crises/a-77436037?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-06-05T13:24:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Germany's UN defeat: What went wrong?",
-            "link": "https://www.dw.com/en/germany-s-un-defeat-what-went-wrong/a-77420221?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-06-04T11:51:00Z",
+            "title": "US Senate passes $70 billion funding for ICE, Border Patrol",
+            "link": "https://www.dw.com/en/us-senate-passes-70-billion-funding-for-ice-border-patrol/a-77435289?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-06-05T13:19:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Mount Everest: Missing Sherpa found alive after 6 days",
-            "link": "https://www.dw.com/en/mount-everest-missing-sherpa-found-alive-after-6-days/a-77420418?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-06-04T11:23:00Z",
+            "title": "Germany's Iran war lessons after 100 days",
+            "link": "https://www.dw.com/en/germany-s-iran-war-lessons-after-100-days/a-77433873?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-06-05T12:48:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Tiananmen dissident lambasts China on massacre anniversary",
-            "link": "https://www.dw.com/en/tiananmen-dissident-lambasts-china-on-massacre-anniversary/a-77420338?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-06-04T11:10:00Z",
+            "title": "Germany news: National team won't win World Cup, fans think",
+            "link": "https://www.dw.com/en/germany-news-national-team-won-t-win-world-cup-fans-think/live-77428914?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-06-05T11:52:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Stuck on oil: Can Hawaii power itself?",
-            "link": "https://www.dw.com/en/stuck-on-oil-can-hawaii-power-itself/a-76967079?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-06-04T10:54:00Z",
+            "title": "Middle East: UN doubles Lebanon aid appeal amid Israel war",
+            "link": "https://www.dw.com/en/middle-east-un-doubles-lebanon-aid-appeal-amid-israel-war/live-77434702?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-06-05T11:39:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Marjane Satrapi, author of 'Persepolis,' dies at 56",
-            "link": "https://www.dw.com/en/marjane-satrapi-author-of-persepolis-dies-at-56/a-77419269?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-06-04T10:23:00Z",
+            "title": "Slovenia's political survivor Janez Jansa is back",
+            "link": "https://www.dw.com/en/slovenia-s-political-survivor-janez-jansa-is-back/a-77433779?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-06-05T11:25:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "Germany news: Number of millionaires is growing, study shows",
-            "link": "https://www.dw.com/en/germany-news-number-of-millionaires-is-growing-study-shows/live-77416092?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-06-04T10:05:00Z",
+            "title": "Ukraine: Marine drone explodes in Romanian port",
+            "link": "https://www.dw.com/en/ukraine-marine-drone-explodes-in-romanian-port/live-77428478?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-06-05T11:16:00Z",
             "source": "DW (Germany)"
         },
         {
-            "title": "100 days of Iran war: Gulf states grapple with security and economic consequences",
-            "link": "https://www.dw.com/en/100-days-of-iran-war-gulf-states-grapple-with-security-and-economic-consequences/a-77393748?maca=en-rss-en-top-1022-rdf",
-            "published": "2026-06-04T09:39:00Z",
+            "title": "Environment wins of the week",
+            "link": "https://www.dw.com/en/environment-wins-of-the-week/a-77433661?maca=en-rss-en-top-1022-rdf",
+            "published": "2026-06-05T11:15:00Z",
             "source": "DW (Germany)"
         }
     ]
